@@ -23,7 +23,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: The Risk Data Library
+  headline: The Risk <br>Data Library
   content: Open data standards and tools to use open risk data together on the web
   cta:
     enabled: true
