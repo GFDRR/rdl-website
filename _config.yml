@@ -3,7 +3,7 @@ title: Risk Data Library
 author: GFDRR
 email: pchrzanowski@worldbank.org
 description: ''
-baseurl: "/ubuild-jekyll"
+baseurl: ''
 url: ''
 defaults:
 - scope:
