@@ -7,7 +7,7 @@ page_sections:
   block: header-2
   logo: ''
   navigation:
-  - link: ''
+  - link: schema
     link_text: Schema
   - link_text: Database
     link: ''
@@ -24,14 +24,15 @@ page_sections:
   block: hero-2
   slug: features
   headline: "<strong>The Risk <br>Data Library</strong>"
-  content: Making disaster risk assessment more effective by making risk data easier to store, find, edit and share. 
+  content: Making disaster risk assessment more effective by making risk data easier
+    to store, find, edit and share.
   cta:
     enabled: true
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: 'See on GitHub '
   image:
     image: ''
-    alt_text: 
+    alt_text: ''
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: content-feature
   block: feature-1
