@@ -24,14 +24,14 @@ page_sections:
   block: hero-2
   slug: features
   headline: "<strong>The Risk <br>Data Library</strong>"
-  content: Open data standards and tools to use open risk data together on the web
+  content: Making disaster risk assessment more effective by making risk data easier to store, find, edit and share. 
   cta:
     enabled: true
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: 'See on GitHub '
   image:
     image: ''
-    alt_text: Product Shot
+    alt_text: 
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: content-feature
   block: feature-1
