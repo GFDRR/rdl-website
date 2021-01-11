@@ -7,7 +7,7 @@ page_sections:
   block: header-2
   logo: ''
   navigation:
-   - link: schema
+  - link: schema
     link_text: schema
   - link_text: Database
     link: database
