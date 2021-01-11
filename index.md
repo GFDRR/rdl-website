@@ -48,7 +48,8 @@ page_sections:
   block: feature-1
   media_alignment: Left
   content: 'A schema and suite of tools for working with risk data from various sources. '
-  headline: Working with hazard, exposure, vulnerability and loss data.
+  headline: "<strong>Hazard</strong>, <strong>exposure</strong>, <strong>vulnerability</strong>
+    and <strong>loss data</strong> altogether."
   slug: ''
   media:
     image: ''
