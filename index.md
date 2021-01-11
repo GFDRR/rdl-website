@@ -48,14 +48,13 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  slug: customize
-  headline: <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
-    edits throughout your new site</span>
-  content: Each block comes with custom Front Matter that can be edited in Forestry
-    CMS.
+  slug: standard
+  headline: Developing an <strong>open standard for risk data</strong>
+  content: More than 100 organizations highlighted the importance of having risk data
+    available in open standards.
   media:
-    image: "/uploads/2018/06/21/edit.gif"
-    alt_text: Customize Blocks
+    image: "/uploads/2021/01/11/solving_the_puzzle.png"
+    alt_text: Solving The Puzzle
 - template: 1-column-text
   block: one-column-1
   slug: responsive
