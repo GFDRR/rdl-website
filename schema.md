@@ -3,10 +3,13 @@ layout: blocks
 title: Schema
 date: 
 page_sections:
-- template: navigation-header
-  block: header-1
+- template: navigation-header-w-button
+  block: header-2
   logo: ''
   navigation: []
+  cta:
+    url: ''
+    button_text: ''
 - template: detail-content
   block: text-1
   headline: RDL Schema
