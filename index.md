@@ -28,8 +28,8 @@ page_sections:
     to store, find, edit and share.
   cta:
     enabled: true
-    url: https://github.com/forestryio/ubuild-jekyll
-    button_text: 'See on GitHub '
+    url: documentation
+    button_text: Read the doc
   image:
     image: ''
     alt_text: ''
