@@ -29,7 +29,7 @@ page_sections:
   cta:
     enabled: true
     url: documentation
-    button_text: Read the doc
+    button_text: Documentation
   image:
     image: ''
     alt_text: ''
