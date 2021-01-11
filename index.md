@@ -52,13 +52,6 @@ page_sections:
     designed specifically for the needs of disaster risk experts and the assessments
     they perform.</p><p><a href="" title="">Learn more about the project</a></p>
   headline: Making risk data easier to work with
-- template: simple-footer
-  block: footer-1
-  content: '<strong>Project contact and license<br></strong><br>To learn more or contribute
-    to the Risk Data Library project, contact us at: <a href="mailto:sfraser@worldbank.org">sfraser@worldbank.org</a>
-    and <a href="mailto:pchrzanowski@worldbank.org">pchrzanowski@worldbank.org</a><br><br>The
-    content of this website, unless otherwise noted, is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">Creative
-    Commons Attribution-ShareAlike 4.0 International (CC-BY-SA 4.0)</a>'
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -72,5 +65,12 @@ page_sections:
   media:
     image: ''
     alt_text: ''
+- template: simple-footer
+  block: footer-1
+  content: '<strong>Project contact and license<br></strong><br>To learn more or contribute
+    to the Risk Data Library project, contact us at: <a href="mailto:sfraser@worldbank.org">sfraser@worldbank.org</a>
+    and <a href="mailto:pchrzanowski@worldbank.org">pchrzanowski@worldbank.org</a><br><br>The
+    content of this website, unless otherwise noted, is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">Creative
+    Commons Attribution-ShareAlike 4.0 International (CC-BY-SA 4.0)</a>'
 
 ---
