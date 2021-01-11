@@ -44,6 +44,14 @@ page_sections:
   media:
     image: "/uploads/2021/01/11/solving_the_puzzle.png"
     alt_text: Solving The Puzzle
+- template: detail-content
+  block: text-1
+  content: <p>Disaster risk assessments are more important and more effective than
+    ever, but common issues with risk data are beginning to limit their application.
+    The RDL was launched to address those issues by developing tools and resources
+    designed specifically for the needs of disaster risk experts and the assessments
+    they perform.</p><p><a href="" title="">Learn more about the project</a></p>
+  headline: Making risk data easier to work with
 - template: simple-footer
   block: footer-1
   content: '<strong>Project contact and license<br></strong><br>To learn more or contribute
