@@ -8,13 +8,13 @@ page_sections:
   logo: ''
   navigation:
   - link: schema
-    link_text: Schema
+    link_text: schema
   - link_text: Database
     link: database
   - link_text: Data
     link: data
-  - link: resources
-    link_text: Resources
+  - link: Resources
+    link_text: resources
   - link_text: Project
     link: project
   cta:
