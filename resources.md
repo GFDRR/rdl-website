@@ -8,15 +8,15 @@ page_sections:
   logo: ''
   navigation:
   - link: schema
-    link_text: Schema
+    link_text: schema
   - link_text: Database
-    link: ''
+    link: database
   - link_text: Data
-    link: ''
-  - link: ''
-    link_text: Resources
+    link: data
+  - link: Resources
+    link_text: resources
   - link_text: Project
-    link: ''
+    link: project
   cta:
     url: ''
     button_text: Documentation
