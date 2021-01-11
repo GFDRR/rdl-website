@@ -19,7 +19,7 @@ page_sections:
     link: project
   cta:
     url: ''
-    button_text: ''
+    button_text: 'Documentation'
 - template: detail-content
   block: text-1
   headline: RDL Schema
