@@ -13,7 +13,7 @@ page_sections:
     link: database
   - link_text: Data
     link: data
-  - link: ''
+  - link: resources
     link_text: Resources
   - link_text: Project
     link: ''
