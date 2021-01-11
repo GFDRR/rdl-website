@@ -52,19 +52,6 @@ page_sections:
     designed specifically for the needs of disaster risk experts and the assessments
     they perform.</p><p><a href="" title="">Learn more about the project</a></p>
   headline: Making risk data easier to work with
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  content: We seek to create a collection of components to make working with risk
-    data easier, each one addressing a different underlying problem. Working together,
-    these components create an effective library system designed explicitly for storing,
-    finding, editing and exchanging data for disaster risk assessments. The first
-    of these two components are now available.
-  headline: A system for better managing risk data
-  slug: ''
-  media:
-    image: ''
-    alt_text: ''
 - template: simple-footer
   block: footer-1
   content: '<strong>Project contact and license<br></strong><br>To learn more or contribute
