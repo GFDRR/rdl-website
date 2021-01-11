@@ -59,5 +59,18 @@ page_sections:
     and <a href="mailto:pchrzanowski@worldbank.org">pchrzanowski@worldbank.org</a><br><br>The
     content of this website, unless otherwise noted, is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">Creative
     Commons Attribution-ShareAlike 4.0 International (CC-BY-SA 4.0)</a>'
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  content: We seek to create a collection of components to make working with risk
+    data easier, each one addressing a different underlying problem. Working together,
+    these components create an effective library system designed explicitly for storing,
+    finding, editing and exchanging data for disaster risk assessments. The first
+    of these two components are now available.
+  headline: A system for better managing risk data
+  slug: ''
+  media:
+    image: ''
+    alt_text: ''
 
 ---
