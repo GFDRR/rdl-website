@@ -16,7 +16,7 @@ page_sections:
   - link: resources
     link_text: Resources
   - link_text: Project
-    link: ''
+    link: project
   cta:
     url: ''
     button_text: Documentation
