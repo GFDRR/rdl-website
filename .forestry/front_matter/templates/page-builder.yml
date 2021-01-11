@@ -34,5 +34,6 @@ fields:
 pages:
 - "./data.md"
 - "./database.md"
+- "./resources.md"
 - index.md
 - schema.md
