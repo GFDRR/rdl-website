@@ -32,6 +32,7 @@ fields:
   - simple-footer
   - 4-column-footer
 pages:
+- "./data.md"
 - "./database.md"
 - index.md
 - schema.md
