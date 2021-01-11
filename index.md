@@ -44,6 +44,15 @@ page_sections:
   media:
     image: "/uploads/2021/01/11/solving_the_puzzle.png"
     alt_text: Solving The Puzzle
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  content: 'A schema and suite of tools for working with risk data from various sources. '
+  headline: Working with hazard, exposure, vulnerability and loss data.
+  slug: ''
+  media:
+    image: ''
+    alt_text: ''
 - template: detail-content
   block: text-1
   content: <p>Disaster risk assessments are more important and more effective than
