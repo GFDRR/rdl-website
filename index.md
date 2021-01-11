@@ -10,7 +10,7 @@ page_sections:
   - link: schema
     link_text: Schema
   - link_text: Database
-    link: ''
+    link: database
   - link_text: Data
     link: ''
   - link: ''
