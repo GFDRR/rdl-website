@@ -6,7 +6,17 @@ page_sections:
 - template: navigation-header-w-button
   block: header-2
   logo: ''
-  navigation: []
+  navigation:
+   - link: schema
+    link_text: schema
+  - link_text: Database
+    link: database
+  - link_text: Data
+    link: data
+  - link: Resources
+    link_text: resources
+  - link_text: Project
+    link: project
   cta:
     url: ''
     button_text: ''
