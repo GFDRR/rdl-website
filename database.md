@@ -27,6 +27,11 @@ page_sections:
     issue with risk data: different datatypes then to be stored separately. Risk experts
     must access multiple sources to gather the datasets they need, even when those
     datasets have the same origin.</p>"
+- template: detail-content
+  block: text-1
+  headline: Database benefits
+  content: "<p>Purpose-built for storing risk datasets, the library database has several
+    advantages for the DRM sector</p>"
 - template: simple-footer
   block: footer-1
   content: '<strong>Project contact and license<br></strong><br>To learn more or contribute
