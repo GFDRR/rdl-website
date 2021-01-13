@@ -105,8 +105,31 @@ page_sections:
     target="_blank">Risk Data Library data schema</a></p>
 - template: text-1
   block: text-1
-  headline: ''
+  headline: Frequently Asked Questions
   headline-description: ''
-  content: ''
+  content: '<h4>What is the Risk Data Library?</h4><p>The Risk Data Library is a system
+    for better managing risk data. Its components make working with risk data easier
+    and create an effective library system designed explicitly for storing, finding,
+    editing and exchanging data for disaster risk assessments. The two components
+    are now available: The RDL schema is a new language for describing hazard, exposure,
+    vulnerability and loss data. It gives risk experts a single language to describe
+    datasets used in climate and disaster risk assessment. The datasets have an underlying
+    consistency that makes them highly interoperable, and key metadata fields tailored
+    to risk analysis. The RDL database enables hazard, exposure, vulnerability and
+    loss datasets to be stored in the same environment, consistent with the schema.
+    It provides the architecture for searching and downloading the increasing number
+    of datasets using the schema.</p><h4>Who is leading the Risk Data Library project?</h4><p>The
+    Risk Data Library project is led by GFDRR Labs. The <a href="https://www.gfdrr.org/en"
+    target="_blank">Global Facility for Disaster Reduction and Recovery (GFDRR)</a>
+    is a global partnership that helps developing countries better understand and
+    reduce their vulnerability to natural hazards and climate change. <a href="https://www.gfdrr.org/en/gfdrr-labs"
+    target="_blank">GFDRR Labs</a> uses cutting-edge science and technology to make
+    high-quality risk information available faster and at lower costs, and develop
+    new tools that allow decision-makers and communities to collect, share, and understand
+    risk information. We tailor our approach to support the full range of disaster
+    risk management interventions — from preparedness to risk reduction to consideration
+    of financial solutions.</p><h4>Can I upload data on the Risk Data Library?</h4><p>Uploading
+    data on riskdatalibrary.org is limited to GFDRR administrators. The Risk Data
+    Library is not intended for public upload of data.</p>'
 
 ---
