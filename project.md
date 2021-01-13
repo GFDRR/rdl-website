@@ -38,11 +38,11 @@ page_sections:
   block: text-1
   headline: The Objective
   headline-description: 'Improving disaster resilience through better risk information '
-  content: "<h4>The overarching goal of the RDL project is to improve the quality
-    and effectiveness of the world’s risk information by making the underlying data
-    easier to work with. The immediate focus is the data needs of risk assessment,
-    with the knowledge that the solutions we develop here will be valuable to many
-    members of the DRM community.</h4>"
+  content: "<p>The overarching goal of the RDL project is to improve the quality and
+    effectiveness of the world’s risk information by making the underlying data easier
+    to work with. The immediate focus is the data needs of risk assessment, with the
+    knowledge that the solutions we develop here will be valuable to many members
+    of the DRM community.</p>"
 - template: text-1
   block: text-1
   headline: Development reports
