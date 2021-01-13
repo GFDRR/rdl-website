@@ -38,21 +38,11 @@ page_sections:
   block: text-1
   headline: The Objective
   headline-description: 'Improving disaster resilience through better risk information '
-  content: <h4>Schema technical document</h4><p>Schema contents and structure, providing
-    guidance on completing metadata according to the schema.</p><p><a href="http://riskdatalibrary.org/documentation"
-    target="_blank">Documentation pages</a></p><h4>Solving the Puzzle - Innovating
-    to reduce risk</h4><p>Solving the Puzzle provides a community perspective on priorities
-    for future collaboration and investment in the development and use of disaster
-    risk information for developing countries. The focus is on high-impact activities
-    that will promote the creation and use of risk-related data, catastrophe risk
-    models, and platforms, and that will improve and facilitate the understanding
-    and communication of risk assessment results.</p><p><a href="http://riskdatalibrary.org/assets/docs/communityReports/solving-the-puzzle-report.pdf"
-    target="_blank">Solving the Puzzle full report</a></p><p><a href="https://www.gfdrr.org/en/solving-puzzle-innovating-reduce-risk"
-    target="_blank">GFDRR project page</a></p><h4>Extensible Data Schemas for Hazard,
-    Exposure and Vulnerability Data</h4><p>This paper, a background paper for the
-    UNISDR (now UNDRR) Global Assessment Report 2019, gives an overview of the first
-    phase of development under the Challenge Fund.</p><p><a href="http://riskdatalibrary.org/assets/docs/communityReports/Murnane_etal_2019_ExtensibleSchema_GAR19background.pdf"
-    target="_blank">Murnane et al., 2019, GAR 2019 background paper</a></p>
+  content: "<h4>The overarching goal of the RDL project is to improve the quality
+    and effectiveness of the world’s risk information by making the underlying data
+    easier to work with. The immediate focus is the data needs of risk assessment,
+    with the knowledge that the solutions we develop here will be valuable to many
+    members of the DRM community.</h4>"
 - template: text-1
   block: text-1
   headline: Development reports
