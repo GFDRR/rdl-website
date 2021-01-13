@@ -64,9 +64,14 @@ page_sections:
     href="http://riskdatalibrary.org/schemas" target="_blank">Learn more</a></p>
 - template: text-1
   block: text-1
-  headline: ''
-  headline-description: ''
-  content: ''
+  headline: The database
+  headline-description: Storing hazard, exposure, vulnerability and loss datasets
+    in the same environment
+  content: <p>The architecture of the RDL database is capable of storing all four
+    common types of risk data in the same environment, where they can be indexed and
+    retrieved by a single search function. This reduces the number of separate resources
+    needed to store risk data, reducing costs and search times.</p><p><a href="http://riskdatalibrary.org/database"
+    target="_blank">Learn more</a></p>
 - template: simple-footer
   block: footer-1
   content: '<strong>Project contact and license<br></strong><br>To learn more or contribute
