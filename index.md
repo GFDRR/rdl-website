@@ -23,7 +23,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: "<strong>The Risk Data Library</strong>"
+  headline: "<strong>The Risk <br>Data Library</strong>"
   content: Making disaster risk assessment more effective by making risk data easier
     to store, find, edit and share.
   cta:
@@ -34,6 +34,15 @@ page_sections:
     image: ''
     alt_text: ''
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
+- template: title
+  block: title
+  main-headline: Making risk data easier to work with
+  main-headline-description: <p>Disaster risk assessments are more important and more
+    effective than ever, but common issues with risk data are beginning to limit their
+    application. The RDL was launched to address those issues by developing tools
+    and resources designed specifically for the needs of disaster risk experts and
+    the assessments they perform.</p><p><a href="http://riskdatalibrary.org/project"
+    target="_blank">Learn more about the project</a></p>
 - template: content-feature
   block: feature-1
   media_alignment: Right
