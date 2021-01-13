@@ -22,9 +22,11 @@ page_sections:
     button_text: Documentation
 - template: title
   block: title
-  title: Resources
-  title-description: "<p>Collected documentation, references and links for the projects
-    and each of the library components.</p>"
+  title: The Project
+  title-description: "<p>The RDL project grew out of in-depth community consultation
+    on improving access to risk information. Its overarching purpose is to support
+    disaster resilience work by making risk data easier and more effective to work
+    with.</p>"
 - template: simple-footer
   block: footer-1
   content: '<strong>Project contact and license<br></strong><br>To learn more or contribute
