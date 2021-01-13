@@ -36,8 +36,8 @@ page_sections:
     Commons Attribution-ShareAlike 4.0 International (CC-BY-SA 4.0)</a>'
 - template: text-1
   block: text-1
-  headline: Documentation
-  headline-description: 'Current technical document and published reports '
+  headline: The Objective
+  headline-description: 'Improving disaster resilience through better risk information '
   content: <h4>Schema technical document</h4><p>Schema contents and structure, providing
     guidance on completing metadata according to the schema.</p><p><a href="http://riskdatalibrary.org/documentation"
     target="_blank">Documentation pages</a></p><h4>Solving the Puzzle - Innovating
