@@ -62,10 +62,33 @@ page_sections:
     target="_blank">Download the complete Solving the Puzzle report here</a></p>
 - template: text-1
   block: text-1
-  headline: GitHub Repository
-  headline-description: ''
-  content: <p>Risk Data Library on GitHub</p><p><a href="https://github.com/GFDRR/rdl-data"
-    target="_blank">Risk Data Library data schema</a></p>
+  headline: Partner and supporting organisations
+  headline-description: 'Several organisations and teams have given their time, expertise
+    or funding to the RDL project to date '
+  content: <h4>UK Foreign, Commonwealth and Development Office</h4><p>UK Foreign,
+    Commonwealth and Development Office funded the initial research into the information
+    needs and priorities of the DRM community which created the foundation for the
+    RDL project. FCDO also worked with GFDRR to establish the challenge fund which
+    provided the original funding for the project.</p><p><a href="https://www.gov.uk/government/organisations/foreign-commonwealth-development-office"
+    target="_blank"> UK Foreign, Commonwealth and Development Office website </a><a
+    href="https://www.gfdrr.org/en/challenge-fund" target="_blank">Challenge Fund
+    website</a></p><h4>GFDRR Labs</h4><p>The Labs team at GFDRR conducted the original
+    community research for DfID and managed the challenge fund on their behalf. The
+    Labs team has also overseen the research and development of the RDL project to
+    date.</p><p><a href="https://www.gfdrr.org/en/gfdrr-labs" target="_blank">GFDRR
+    Labs website</a></p><h4>The Global Earthquake Model Foundation</h4><p>GEM led
+    the development of the exposure component of the RDL schema. GEM has continued
+    to contribute to the project by developing the modeled loss component and creating
+    the unified schema and database.</p><p><a href="https://www.globalquakemodel.org"
+    target="_blank">GEM website</a></p><h4>University College London (UCL) EPICentre</h4><p>UCL
+    EPICentre developed the vulnerability component and has continued to refine this
+    in collaboration with GEM.</p><p><a href="https://www.ucl.ac.uk/epicentre" target="_blank">
+    UCL EPICentre website</a></p><h4>The British Geological Survey</h4><p>BGS led
+    the development of the hazard data component of the RDL schema.</p><p><a href="https://www.bgs.ac.uk"
+    target="_blank">BGS website</a></p><h4>Collaborating Partners</h4><p>Collaborating
+    partners in the first phase of schema development also included HOTOSM, ImageCat,
+    Norwegian Geotechnical Institute, NERC National Oceanographic Centre, CIMA Foundation,
+    Earth Observatory Singapore, Global Volcano Model, and the Global Flood Partnership.</p>
 - template: text-1
   block: text-1
   headline: Frequently Asked Questions
