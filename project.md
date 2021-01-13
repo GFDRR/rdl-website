@@ -117,6 +117,5 @@ page_sections:
     of financial solutions.</p><h4>Can I upload data on the Risk Data Library?</h4><p>Uploading
     data on riskdatalibrary.org is limited to GFDRR administrators. The Risk Data
     Library is not intended for public upload of data.</p>'
-published: false
 
 ---
