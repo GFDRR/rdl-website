@@ -1,5 +1,18 @@
 @import "colors";
 
+.block-text-1 {
+	padding: 3rem;
+}
+
+a {
+ text-decoration:none;
+ font-weight:normal;
+ color:#239CE8;
+}
+a:hover {
+ color:#106295;
+}
+
 h2, h3, h4, h5 {
  color: $blue-secondary-color;
 }
@@ -57,12 +70,13 @@ h3 {
 //hero
 
 .block-hero-2 {
-  background-color: $blue-secondary-color;
-  min-height: 0px;
+  	background-color: $blue-secondary-color;
+  	min-height: 0px;
 }
 
 //footer
 
 .block-footer-1 {
- background-color: #e6e6e6;
-}
+ 	background-color: #e6e6e6;
+ 	text-align: left; 
+}	

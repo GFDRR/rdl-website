@@ -36,8 +36,8 @@ page_sections:
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: title
   block: title
-  main-headline: Making risk data easier to work with
-  main-headline-description: <p>Disaster risk assessments are more important and more
+  title: Making risk data easier to work with
+  title-description: <p>Disaster risk assessments are more important and more
     effective than ever, but common issues with risk data are beginning to limit their
     application. The RDL was launched to address those issues by developing tools
     and resources designed specifically for the needs of disaster risk experts and
@@ -45,8 +45,8 @@ page_sections:
     target="_blank">Learn more about the project</a></p>
 - template: title
   block: title
-  main-headline: A system for better managing risk data
-  main-headline-description: "<p>We seek to create a collection of components to make
+  title: A system for better managing risk data
+  title-description: "<p>We seek to create a collection of components to make
     working with risk data easier, each one addressing a different underlying problem.
     Working together, these components create an effective library system designed
     explicitly for storing, finding, editing and exchanging data for disaster risk
@@ -74,8 +74,8 @@ page_sections:
     target="_blank">Learn more</a></p>
 - template: title
   block: title
-  main-headline: " Developed by risk data experts "
-  main-headline-description: <p>The RDL project is the result of the collective effort
+  title: " Developed by risk data experts "
+  title-description: <p>The RDL project is the result of the collective effort
     and ongoing support of internationally-recognised research insitutions and established
     global partnerships with combined expertise across multiple hazards and all aspects
     of risk assessment. The partners have a complete understanding of the challenges
@@ -84,9 +84,9 @@ page_sections:
     target="_blank">Learn more about the partners</a></p>
 - template: simple-footer
   block: footer-1
-  content: '<strong>Project contact and license<br></strong><br>To learn more or contribute
+  content: '<strong style="color: #0b3860;">Project contact and license</strong><br/>To learn more or contribute
     to the Risk Data Library project, contact us at: <a href="mailto:sfraser@worldbank.org">sfraser@worldbank.org</a>
-    and <a href="mailto:pchrzanowski@worldbank.org">pchrzanowski@worldbank.org</a><br><br>The
+    and <a href="mailto:pchrzanowski@worldbank.org">pchrzanowski@worldbank.org</a><br/>The
     content of this website, unless otherwise noted, is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">Creative
     Commons Attribution-ShareAlike 4.0 International (CC-BY-SA 4.0)</a>'
 

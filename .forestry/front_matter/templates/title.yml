@@ -8,11 +8,11 @@ fields:
   name: block
   default: title
 - type: text
-  name: main-headline
-  label: Main-Headline
+  name: title
+  label: title
 - type: textarea
-  name: main-headline-description
-  label: Main-headline-description
+  name: title-description
+  label: title-description
   config:
     wysiwyg: true
     schema:
