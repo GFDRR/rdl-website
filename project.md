@@ -27,13 +27,6 @@ page_sections:
     on improving access to risk information. Its overarching purpose is to support
     disaster resilience work by making risk data easier and more effective to work
     with.</p>"
-- template: simple-footer
-  block: footer-1
-  content: '<strong>Project contact and license<br></strong><br>To learn more or contribute
-    to the Risk Data Library project, contact us at: <a href="mailto:sfraser@worldbank.org">sfraser@worldbank.org</a>
-    and <a href="mailto:pchrzanowski@worldbank.org">pchrzanowski@worldbank.org</a><br><br>The
-    content of this website, unless otherwise noted, is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">Creative
-    Commons Attribution-ShareAlike 4.0 International (CC-BY-SA 4.0)</a>'
 - template: text-1
   block: text-1
   headline: The Objective
@@ -89,5 +82,12 @@ page_sections:
     partners in the first phase of schema development also included HOTOSM, ImageCat,
     Norwegian Geotechnical Institute, NERC National Oceanographic Centre, CIMA Foundation,
     Earth Observatory Singapore, Global Volcano Model, and the Global Flood Partnership.</p>
+- template: simple-footer
+  block: footer-1
+  content: '<strong>Project contact and license<br></strong><br>To learn more or contribute
+    to the Risk Data Library project, contact us at: <a href="mailto:sfraser@worldbank.org">sfraser@worldbank.org</a>
+    and <a href="mailto:pchrzanowski@worldbank.org">pchrzanowski@worldbank.org</a><br><br>The
+    content of this website, unless otherwise noted, is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">Creative
+    Commons Attribution-ShareAlike 4.0 International (CC-BY-SA 4.0)</a>'
 
 ---
