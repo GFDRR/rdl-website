@@ -23,7 +23,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: "<strong>The Risk <br>Data Library</strong>"
+  headline: "<strong>The Risk Data Library</strong>"
   content: Making disaster risk assessment more effective by making risk data easier
     to store, find, edit and share.
   cta:
@@ -37,20 +37,24 @@ page_sections:
 - template: title
   block: title
   title: Making risk data easier to work with
-  title-description: <p>Disaster risk assessments are more important and more
-    effective than ever, but common issues with risk data are beginning to limit their
-    application. The RDL was launched to address those issues by developing tools
-    and resources designed specifically for the needs of disaster risk experts and
-    the assessments they perform.</p><p><a href="http://riskdatalibrary.org/project"
-    target="_blank">Learn more about the project</a></p>
+  title-description: <p>Disaster risk assessments are more important and more effective
+    than ever, but common issues with risk data are beginning to limit their application.
+    The RDL was launched to address those issues by developing tools and resources
+    designed specifically for the needs of disaster risk experts and the assessments
+    they perform.</p><p><a href="http://riskdatalibrary.org/project" target="_blank">Learn
+    more about the project</a></p>
+  main-headline: ''
+  main-headline-description: ''
 - template: title
   block: title
   title: A system for better managing risk data
-  title-description: "<p>We seek to create a collection of components to make
-    working with risk data easier, each one addressing a different underlying problem.
-    Working together, these components create an effective library system designed
-    explicitly for storing, finding, editing and exchanging data for disaster risk
-    assessments. The first of these two components are now available.</p>"
+  title-description: "<p>We seek to create a collection of components to make working
+    with risk data easier, each one addressing a different underlying problem. Working
+    together, these components create an effective library system designed explicitly
+    for storing, finding, editing and exchanging data for disaster risk assessments.
+    The first of these two components are now available.</p>"
+  main-headline: ''
+  main-headline-description: ''
 - template: text-1
   block: text-1
   headline: The RDL schema
@@ -75,17 +79,19 @@ page_sections:
 - template: title
   block: title
   title: " Developed by risk data experts "
-  title-description: <p>The RDL project is the result of the collective effort
-    and ongoing support of internationally-recognised research insitutions and established
+  title-description: <p>The RDL project is the result of the collective effort and
+    ongoing support of internationally-recognised research insitutions and established
     global partnerships with combined expertise across multiple hazards and all aspects
     of risk assessment. The partners have a complete understanding of the challenges
     risk analysts face in finding, editing and exchanging data for disaster risk assessments,
     for various scales and contexts.</p><p><a href="http://riskdatalibrary.org/project"
     target="_blank">Learn more about the partners</a></p>
+  main-headline: ''
+  main-headline-description: ''
 - template: simple-footer
   block: footer-1
-  content: '<strong style="color: #0b3860;">Project contact and license</strong><br/>To learn more or contribute
-    to the Risk Data Library project, contact us at: <a href="mailto:sfraser@worldbank.org">sfraser@worldbank.org</a>
+  content: '<strong style="color: #0b3860;">Project contact and license</strong><br/>To
+    learn more or contribute to the Risk Data Library project, contact us at: <a href="mailto:sfraser@worldbank.org">sfraser@worldbank.org</a>
     and <a href="mailto:pchrzanowski@worldbank.org">pchrzanowski@worldbank.org</a><br/>The
     content of this website, unless otherwise noted, is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">Creative
     Commons Attribution-ShareAlike 4.0 International (CC-BY-SA 4.0)</a>'
