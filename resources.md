@@ -25,13 +25,6 @@ page_sections:
   title: Resources
   title-description: "<p>Collected documentation, references and links for the projects
     and each of the library components.</p>"
-- template: simple-footer
-  block: footer-1
-  content: '<strong>Project contact and license<br></strong><br>To learn more or contribute
-    to the Risk Data Library project, contact us at: <a href="mailto:sfraser@worldbank.org">sfraser@worldbank.org</a>
-    and <a href="mailto:pchrzanowski@worldbank.org">pchrzanowski@worldbank.org</a><br><br>The
-    content of this website, unless otherwise noted, is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">Creative
-    Commons Attribution-ShareAlike 4.0 International (CC-BY-SA 4.0)</a>'
 - template: text-1
   block: text-1
   headline: Documentation
@@ -131,5 +124,12 @@ page_sections:
     of financial solutions.</p><h4>Can I upload data on the Risk Data Library?</h4><p>Uploading
     data on riskdatalibrary.org is limited to GFDRR administrators. The Risk Data
     Library is not intended for public upload of data.</p>'
+- template: simple-footer
+  block: footer-1
+  content: '<strong>Project contact and license<br></strong><br>To learn more or contribute
+    to the Risk Data Library project, contact us at: <a href="mailto:sfraser@worldbank.org">sfraser@worldbank.org</a>
+    and <a href="mailto:pchrzanowski@worldbank.org">pchrzanowski@worldbank.org</a><br><br>The
+    content of this website, unless otherwise noted, is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">Creative
+    Commons Attribution-ShareAlike 4.0 International (CC-BY-SA 4.0)</a>'
 
 ---
