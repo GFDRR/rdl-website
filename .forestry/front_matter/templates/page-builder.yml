@@ -34,6 +34,7 @@ fields:
   - title
   - text-1
 pages:
+- database.md
 - index.md
 - resources.md
 - schema.md
