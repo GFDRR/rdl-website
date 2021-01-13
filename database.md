@@ -52,6 +52,14 @@ page_sections:
   headline: Database benefits
   headline-description: 'Purpose-built for storing risk datasets, the library database
     has several advantages for the DRM sector '
+- template: text-1
+  block: text-1
+  headline: Further information & resources
+  headline-description: 'Details on the schema contents and structure, giving guidance
+    on completing metadata according to the schema. '
+  content: <p>Details on the schema contents and structure, giving guidance on completing
+    metadata according to the schema.</p><p><a href="http://riskdatalibrary.org/documentation"
+    target="_blank">Technical information</a></p>
 - template: simple-footer
   block: footer-1
   content: '<strong>Project contact and license<br></strong><br>To learn more or contribute
