@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: Schema
-date: 
+date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
@@ -20,9 +20,14 @@ page_sections:
   cta:
     url: ''
     button_text: 'Documentation'
+- template: title
+  block: title
+  title: Schema
+  title-description: The library schema is designed specifically for describing risk data in a consistent and accessible manner. It creates a structure for hazard, exposure, vulnerability and modelled loss datasets that make them easier to locate, understand and work with.
 - template: detail-content
   block: text-1
   headline: RDL Schema
+  headline-description: The library schema is designed specifically for describing risk data in a consistent and accessible manner. It creates a structure for hazard, exposure, vulnerability and modelled loss datasets that make them easier to locate, understand and work with.
   content: "<p>The library schema is designed specifically for describing risk data
     in a consistent and accessible manner. It creates a structure for hazard, exposure,
     vulnerability and modelled loss datasets that make them easier to locate, understand

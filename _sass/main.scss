@@ -4,10 +4,14 @@ h2, h3, h4, h5 {
  color: $blue-secondary-color;
 }
 
+h3 {
+	font-size: 1.5rem;
+}
+
 //header
 
 .block-header-2 .nav-item {
- font-size: 1 rem;
+ font-size: 1rem;
 }
 
 .block-header-2 .nav-item a, .block-header-2--logo a {
@@ -30,6 +34,24 @@ h2, h3, h4, h5 {
 
 .block-header-2 {
   background-color: $blue-secondary-color; 
+}
+
+//title
+
+.title p {
+	font-size: 1.5rem;
+	color: gray;
+	font-weight: normal;
+	margin-top: 0.5rem;	
+}
+
+//text-1
+
+.headline p {
+	font-size: 1.125rem;
+	color: gray;
+	font-weight: normal;
+	margin-top: 0.5rem;	
 }
 
 //hero
