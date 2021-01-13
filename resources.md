@@ -99,9 +99,10 @@ page_sections:
     Final report.pdf" target="_blank">Phase 3 schema updates final report</a></p>'
 - template: text-1
   block: text-1
-  headline: ''
+  headline: GitHub Repository
   headline-description: ''
-  content: ''
+  content: <p>Risk Data Library on GitHub</p><p><a href="https://github.com/GFDRR/rdl-data"
+    target="_blank">Risk Data Library data schema</a></p>
 - template: text-1
   block: text-1
   headline: ''
