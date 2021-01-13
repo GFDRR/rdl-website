@@ -32,6 +32,7 @@ fields:
   - simple-footer
   - 4-column-footer
   - title
+  - text-1
 pages:
 - index.md
 - resources.md
