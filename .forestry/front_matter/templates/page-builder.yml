@@ -34,7 +34,6 @@ fields:
   - title
   - text-1
 pages:
-- "./project.md"
 - database.md
 - index.md
 - resources.md
