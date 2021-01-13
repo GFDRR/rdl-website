@@ -20,15 +20,16 @@ page_sections:
   cta:
     url: ''
     button_text: Documentation
-- template: detail-content
-  block: text-1
-  content: "<p>Test</p>"
-  headline: Resources
+- template: title
+  block: title
+  title: Resources
+  title-description: "<p>Collected documentation, references and links for the projects
+    and each of the library components.</p>"
 - template: simple-footer
   block: footer-1
-  content: '<strong style="color: #0b3860;">Project contact and license</strong><br/>To learn more or contribute
+  content: '<strong>Project contact and license<br></strong><br>To learn more or contribute
     to the Risk Data Library project, contact us at: <a href="mailto:sfraser@worldbank.org">sfraser@worldbank.org</a>
-    and <a href="mailto:pchrzanowski@worldbank.org">pchrzanowski@worldbank.org</a><br/>The
+    and <a href="mailto:pchrzanowski@worldbank.org">pchrzanowski@worldbank.org</a><br><br>The
     content of this website, unless otherwise noted, is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">Creative
     Commons Attribution-ShareAlike 4.0 International (CC-BY-SA 4.0)</a>'
 
