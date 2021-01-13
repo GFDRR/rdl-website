@@ -19,15 +19,21 @@ page_sections:
     link: project
   cta:
     url: ''
-    button_text: 'Documentation'
+    button_text: Documentation
 - template: title
   block: title
-  title: Schema
-  title-description: The library schema is designed specifically for describing risk data in a consistent and accessible manner. It creates a structure for hazard, exposure, vulnerability and modelled loss datasets that make them easier to locate, understand and work with.
+  title: RDL Schema
+  title-description: "<p>The library schema is designed specifically for describing
+    risk data in a consistent and accessible manner. It creates a structure for hazard,
+    exposure, vulnerability and modelled loss datasets that make them easier to locate,
+    understand and work with.</p>"
 - template: detail-content
   block: text-1
   headline: RDL Schema
-  headline-description: The library schema is designed specifically for describing risk data in a consistent and accessible manner. It creates a structure for hazard, exposure, vulnerability and modelled loss datasets that make them easier to locate, understand and work with.
+  headline-description: The library schema is designed specifically for describing
+    risk data in a consistent and accessible manner. It creates a structure for hazard,
+    exposure, vulnerability and modelled loss datasets that make them easier to locate,
+    understand and work with.
   content: "<p>The library schema is designed specifically for describing risk data
     in a consistent and accessible manner. It creates a structure for hazard, exposure,
     vulnerability and modelled loss datasets that make them easier to locate, understand
@@ -60,8 +66,8 @@ page_sections:
     units.</p>"
 - template: simple-footer
   block: footer-1
-  content: '<strong style="color: #0b3860;">Project contact and license</strong><br/>To learn more or contribute
-    to the Risk Data Library project, contact us at: <a href="mailto:sfraser@worldbank.org">sfraser@worldbank.org</a>
+  content: '<strong style="color: #0b3860;">Project contact and license</strong><br/>To
+    learn more or contribute to the Risk Data Library project, contact us at: <a href="mailto:sfraser@worldbank.org">sfraser@worldbank.org</a>
     and <a href="mailto:pchrzanowski@worldbank.org">pchrzanowski@worldbank.org</a><br/>The
     content of this website, unless otherwise noted, is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">Creative
     Commons Attribution-ShareAlike 4.0 International (CC-BY-SA 4.0)</a>'
