@@ -53,9 +53,50 @@ page_sections:
     target="_blank">Murnane et al., 2019, GAR 2019 background paper</a></p>
 - template: text-1
   block: text-1
-  headline: ''
-  headline-description: ''
-  content: ''
+  headline: Development reports
+  headline-description: 'Reports documenting development under the DfID Challenge
+    Fund '
+  content: '<h4>2018 (phase 1): Establishing the hazard schema</h4><p>An international
+    consortium led by British Geological Survey (BGS) undertook the challenge of developing
+    an open schema for multi-hazard scenario footprints in response to recommendations
+    from Solving the Puzzle, and populating it with data for scenarios in Tanzania.</p><p><a
+    href="http://riskdatalibrary.org/assets/docs/technicalReports/challengefund_phase1_hazardSchemaDevelopment.pdf"
+    target="_blank">Hazard schema development - final report</a></p><h4>2018 (phase
+    1): Establishing the exposure schema</h4><p>An international consortium led by
+    the Global Earthquake Model Foundation (GEM) undertook the challenge of developing
+    an open, multi-scale exposure data schema for multi-hazard analysis (GED4ALL)
+    in response to recommendations from Solving the Puzzle. It was populated with
+    data for Tanzania and other selected countries.</p><p><a href="http://riskdatalibrary.org/assets/docs/technicalReports/challengefund_phase1_exposureSchemaDevelopment_D1
+    - Exposure Data Schema and Tools.pdf" target="_blank">GED4ALL schema and tools
+    report</a></p><p><a href="http://riskdatalibrary.org/assets/docs/technicalReports/challengefund_phase1_exposureSchemaDevelopment_D2
+    - Multi-hazard Exposure Taxonomy.pdf" target="_blank">Multi-hazard Exposure Taxonomy
+    report</a></p><p><a href="http://riskdatalibrary.org/assets/docs/technicalReports/challengefund_phase1_exposureSchemaDevelopment_D3
+    - Populating GED4ALL with Existing Databases.pdf" target="_blank">Populating the
+    database report</a></p><p><a href="https://drive.google.com/file/d/1MLLlmrurAs2lXFcYMsFJRHzk1erjoEWg/view?usp=sharing"
+    target="_blank">Developing Exposure Models report</a></p><p><a href="http://riskdatalibrary.org/assets/docs/technicalReports/challengefund_phase1_exposureSchemaDevelopment_D5
+    - Final report.pdf" target="_blank">GED4ALL development - final report</a></p><h4>2018
+    (phase 1): Establishing the vulnerability schema</h4><p>An international consortium
+    led by University College London (UCL) EPICentre undertook the challenge of developing
+    an open data schema for multi-hazard, physical fragility and vulnerability relationships,
+    and socioeconomic indicators and indexes in response to recommendations from Solving
+    the Puzzle. The schema was populated with earthquake physical vulnerablity and
+    fragility relationships.</p><p><a href="http://riskdatalibrary.org/assets/docs/technicalReports/challengefund_phase1_vulnerabilitySchemaDevelopment_MOVER
+    Physical and Social vulnerability data schemas.pdf" target="_blank">Vulnerability
+    schema (MOVER) development - final report</a></p><p><a href="http://riskdatalibrary.org/assets/docs/technicalReports/challengefund_phase1_vulnerabilitySchemaDevelopment_moverManual.pdf"
+    target="_blank">Vulnerability schema (MOVER) - manual</a></p><h4>2018 (phase 1):
+    Developing a pilot risk visualization dashboard (HEV-E)</h4><p>GeoSolutions undertook
+    the challenge of developing an open risk data dashbaord in response to recommendations
+    from Solving the Puzzle, intended to visualize the contents of the hazard, exposure
+    and vulnerability schema.</p><p><a href="http://riskdatalibrary.org/assets/docs/technicalReports/challengefund_phase1_HEV-E
+    Final Report.pdf" target="_blank">HEV-E project final report</a></p><h4>2019 (phase
+    2): Updating the existing schema and developing a modeled loss schema</h4><p>GEM
+    and UCL EPICentre updated the existing schema and developing a new component to
+    store modeled loss curves and loss maps.</p><p><a href="http://riskdatalibrary.org/assets/docs/technicalReports/challengefund_phase2_schemaUpdates
+    Final report.pdf" target="_blank">Phase 2 schema updates final report</a></p><h4>2020
+    (phase 3): Updating the existing for closer integration</h4><p>GEM and UCL EPICentre
+    further updated the existing schema and refactored the vulnerability schema to
+    establish a unified database and common tables linking all schema.</p><p><a href="http://riskdatalibrary.org/assets/docs/technicalReports/challengefund_phase3_schemaUpdates
+    Final report.pdf" target="_blank">Phase 3 schema updates final report</a></p>'
 - template: text-1
   block: text-1
   headline: ''
