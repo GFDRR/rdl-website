@@ -72,6 +72,16 @@ page_sections:
     retrieved by a single search function. This reduces the number of separate resources
     needed to store risk data, reducing costs and search times.</p><p><a href="http://riskdatalibrary.org/database"
     target="_blank">Learn more</a></p>
+- template: title
+  block: title
+  main-headline: " Developed by risk data experts "
+  main-headline-description: <p>The RDL project is the result of the collective effort
+    and ongoing support of internationally-recognised research insitutions and established
+    global partnerships with combined expertise across multiple hazards and all aspects
+    of risk assessment. The partners have a complete understanding of the challenges
+    risk analysts face in finding, editing and exchanging data for disaster risk assessments,
+    for various scales and contexts.</p><p><a href="http://riskdatalibrary.org/project"
+    target="_blank">Learn more about the partners</a></p>
 - template: simple-footer
   block: footer-1
   content: '<strong>Project contact and license<br></strong><br>To learn more or contribute
