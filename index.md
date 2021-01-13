@@ -23,7 +23,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: "<strong>The Risk <br>Data Library</strong>"
+  headline: "<strong>The Risk Data Library</strong>"
   content: Making disaster risk assessment more effective by making risk data easier
     to store, find, edit and share.
   cta:
