@@ -58,6 +58,13 @@ page_sections:
     ground deformation and liquefaction process types. Each process type has one or
     more associated intensity units, enabling flexibility to store data in original
     units.</p>"
+- template: text-1
+  block: text-1
+  headline: Further information & resources
+  content: <p>Details on the schema contents and structure, giving guidance on completing
+    metadata according to the schema.</p><p><a href="http://riskdatalibrary.org/documentation"
+    target="_blank">Technical information</a></p>
+  headline-description: ''
 - template: simple-footer
   block: footer-1
   content: '<strong style="color: #0b3860;">Project contact and license</strong><br/>To
