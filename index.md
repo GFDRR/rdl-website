@@ -43,6 +43,14 @@ page_sections:
     and resources designed specifically for the needs of disaster risk experts and
     the assessments they perform.</p><p><a href="http://riskdatalibrary.org/project"
     target="_blank">Learn more about the project</a></p>
+- template: title
+  block: title
+  main-headline: A system for better managing risk data
+  main-headline-description: "<p>We seek to create a collection of components to make
+    working with risk data easier, each one addressing a different underlying problem.
+    Working together, these components create an effective library system designed
+    explicitly for storing, finding, editing and exchanging data for disaster risk
+    assessments. The first of these two components are now available.</p>"
 - template: content-feature
   block: feature-1
   media_alignment: Right
