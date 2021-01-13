@@ -51,23 +51,22 @@ page_sections:
     Working together, these components create an effective library system designed
     explicitly for storing, finding, editing and exchanging data for disaster risk
     assessments. The first of these two components are now available.</p>"
-- template: detail-content
+- template: text-1
   block: text-1
   headline: The RDL schema
+  headline-description: A new language for describing hazard, exposure, vulnerability
+    and loss data
   content: <p>The RDL schema gives risk experts a single language to describe hazard,
     exposure, vulnerability and modelled loss datasets. It gives datasets an underlying
     consistency that makes them highly interoperable and easily read by both people
     and machines. The schema also contains labels for key metadata fields, making
     it easier to identify datasets without relying on external files or descriptions.</p><p><a
     href="http://riskdatalibrary.org/schemas" target="_blank">Learn more</a></p>
-- template: detail-content
+- template: text-1
   block: text-1
-  content: <p>Disaster risk assessments are more important and more effective than
-    ever, but common issues with risk data are beginning to limit their application.
-    The RDL was launched to address those issues by developing tools and resources
-    designed specifically for the needs of disaster risk experts and the assessments
-    they perform.</p><p><a href="" title="">Learn more about the project</a></p>
-  headline: Making risk data easier to work with
+  headline: ''
+  headline-description: ''
+  content: ''
 - template: simple-footer
   block: footer-1
   content: '<strong>Project contact and license<br></strong><br>To learn more or contribute
