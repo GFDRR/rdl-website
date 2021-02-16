@@ -12,7 +12,7 @@ page_sections:
   - link_text: Database
     link: database
   - link_text: Data
-    link: data
+    link: http://jkan.riskdatalibrary.org/
   - link_text: Resources
     link: resources
   - link_text: Project

@@ -36,5 +36,6 @@ fields:
 pages:
 - database.md
 - index.md
+- project.md
 - resources.md
 - schema.md
