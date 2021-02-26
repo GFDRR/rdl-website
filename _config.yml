@@ -3,7 +3,7 @@ title: The Risk Data Library
 author: GFDRR
 email: pchrzanowski@worldbank.org
 description: ''
-baseurl: 
+baseurl: ''
 url: ''
 defaults:
 - scope:
