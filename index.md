@@ -91,8 +91,9 @@ page_sections:
 - template: 4-column-footer
   block: footer-2
   image: "/uploads/2021/02/26/gfdrr-logo.png"
-  col_2: <a href="privacy" title="Privacy Policy">Privacy Policy</a>
-  col_3: <a href="" title="Terms of use">Terms of use</a>
-  col_4: <a href="Contact" title="Contact">Contact</a>
+  col_2: ''
+  col_3: ''
+  col_4: <a href="privacy" title="Privacy Policy">Privacy Policy</a><br><a href=""
+    title="Terms of use">Terms of use</a><br><a href="Contact" title="Contact">Contact</a>
 
 ---
