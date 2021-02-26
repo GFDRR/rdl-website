@@ -124,12 +124,14 @@ page_sections:
     of financial solutions.</p><h4>Can I upload data on the Risk Data Library?</h4><p>Uploading
     data on riskdatalibrary.org is limited to GFDRR administrators. The Risk Data
     Library is not intended for public upload of data.</p>'
-- template: simple-footer
-  block: footer-1
-  content: '<strong>Project contact and license<br></strong><br>To learn more or contribute
-    to the Risk Data Library project, contact us at: <a href="mailto:sfraser@worldbank.org">sfraser@worldbank.org</a>
-    and <a href="mailto:pchrzanowski@worldbank.org">pchrzanowski@worldbank.org</a><br><br>The
-    content of this website, unless otherwise noted, is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">Creative
-    Commons Attribution-ShareAlike 4.0 International (CC-BY-SA 4.0)</a>'
-
+- template: 4-column-footer
+  block: footer-2
+  image: "/uploads/2021/02/26/gfdrr-logo.png"
+  col_2: "© 2021 Global Facility for Disaster Reduction and Recovery"
+  col_3: Content of this website, unless otherwise noted, is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode"
+    title="CC-BY-SA 4.0">CC-BY-SA 4.0</a>
+  col_4: <a href="/privacy" title="Privacy Policy">Privacy Policy</a><br><a href="/terms"
+    title="Terms of use">Terms of use</a><br><a href="contact" title="Contact">Contact</a>
+    <br>
 ---
+
