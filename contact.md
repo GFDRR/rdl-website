@@ -22,9 +22,8 @@ page_sections:
     button_text: Documentation
 - template: 1-column-text
   block: one-column-1
-  content: This website adheres to the <a href="https://www.gfdrr.org/en/privacy-policy"
-    title="">privacy policy</a> of GFDRR's websites.
-  headline: Privacy policy
+  content: To contact us, please send an email at <a href="" title="">contact@riskdatalibrary.org</a><br><br>
+  headline: Contact us
   slug: ''
 - template: 4-column-footer
   block: footer-2
