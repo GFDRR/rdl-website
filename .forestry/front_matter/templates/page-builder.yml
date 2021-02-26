@@ -34,8 +34,6 @@ fields:
   - title
   - text-1
 pages:
-- "./contact.md"
-- "./terms.md"
 - database.md
 - index.md
 - privacy.md
