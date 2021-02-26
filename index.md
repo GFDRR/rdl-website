@@ -18,7 +18,7 @@ page_sections:
   - link_text: Project
     link: project
   cta:
-    url: doc.riskdatalibrary.org
+    url: https://doc.riskdatalibrary.org
     button_text: Documentation
 - template: hero-banner-w-image
   block: hero-2
