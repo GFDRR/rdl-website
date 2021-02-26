@@ -91,9 +91,11 @@ page_sections:
 - template: 4-column-footer
   block: footer-2
   image: "/uploads/2021/02/26/gfdrr-logo.png"
-  col_2: ''
-  col_3: ''
-  col_4: <a href="privacy" title="Privacy Policy">Privacy Policy</a><br><a href=""
+  col_2: The content of this website, unless otherwise noted, is licensed under <a
+    href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">Creative Commons
+    Attribution-ShareAlike 4.0 International (CC-BY-SA 4.0)</a>
+  col_3: <a href="privacy" title="Privacy Policy">Privacy Policy</a><br><a href=""
     title="Terms of use">Terms of use</a><br><a href="Contact" title="Contact">Contact</a>
+  col_4: ''
 
 ---
