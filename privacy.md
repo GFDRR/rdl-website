@@ -20,12 +20,12 @@ page_sections:
   cta:
     url: ''
     button_text: Documentation
-- template: text-1
-  block: text-1
-  content: <p>This website adheres to the <a href="https://www.gfdrr.org/en/privacy-policy"
-    title="">privacy policy of GFDRR's websites</a>.</p>
-  headline: Privacy Policy
-  headline-description: ''
+- template: 1-column-text
+  block: one-column-1
+  content: This website adheres to the <a href="https://www.gfdrr.org/en/privacy-policy"
+    title="">privacy policy</a> of GFDRR's websites.
+  headline: Privacy policy
+  slug: ''
 - template: 4-column-footer
   block: footer-2
   image: "/uploads/2021/02/26/gfdrr-logo.png"
@@ -36,5 +36,5 @@ page_sections:
     Policy">Privacy Policy</a><br><a href="https://app.forestry.io/sites/bgn4z9mo95u7vg/#/pages/index-md/"
     title="Terms of use">Terms of use</a><br><a href="https://app.forestry.io/sites/bgn4z9mo95u7vg/Contact"
     title="Contact">Contact</a> <br>
-published: true
+
 ---
