@@ -1,5 +1,9 @@
 @import "colors";
 
+html, body {
+	min-height: 100vh;
+}
+
 .container {
  	width:960px;
 }
