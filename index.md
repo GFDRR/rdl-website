@@ -91,8 +91,8 @@ page_sections:
 - template: 4-column-footer
   block: footer-2
   image: "/uploads/2021/02/26/gfdrr-logo.png"
-  col_2: ''
-  col_3: ''
-  col_4: ''
+  col_2: Privacy Policy
+  col_3: Terms of use
+  col_4: Contact
 
 ---
