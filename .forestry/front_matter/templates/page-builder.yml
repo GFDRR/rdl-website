@@ -34,7 +34,6 @@ fields:
   - title
   - text-1
 pages:
-- "./privacy.md"
 - database.md
 - index.md
 - project.md
