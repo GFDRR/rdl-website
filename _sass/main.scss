@@ -80,7 +80,13 @@ h3 {
 
 //footer
 
-.block-footer-1 {
- 	background-color: #e6e6e6;
- 	text-align: left; 
-}	
+.block-footer-2 {
+ 	background-color: $blue-secondary-color;
+ 	text-align: left;
+ 	padding: 3rem 4rem;
+ 	color:#aaa;
+}
+
+.block-footer-2 a {
+ 	color: #fff;
+ }
