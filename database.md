@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Database
+title: Homepage
 date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
@@ -12,13 +12,13 @@ page_sections:
   - link_text: Database
     link: database
   - link_text: Data
-    link: data
+    link: http://jkan.riskdatalibrary.org/
   - link_text: Resources
     link: resources
   - link_text: Project
     link: project
   cta:
-    url: ''
+    url: https://doc.riskdatalibrary.org
     button_text: Documentation
 - template: title
   block: title

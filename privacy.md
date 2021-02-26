@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Privacy
+title: Homepage
 date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
@@ -18,7 +18,7 @@ page_sections:
   - link_text: Project
     link: project
   cta:
-    url: ''
+    url: https://doc.riskdatalibrary.org
     button_text: Documentation
 - template: 1-column-text
   block: one-column-1
