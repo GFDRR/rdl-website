@@ -90,7 +90,7 @@ page_sections:
   main-headline-description: ''
 - template: simple-footer
   block: footer-1
-  content: '<strong>Project contact and license</strong><br>To learn more or contribute
+  content: '<strong>Project contact and license<br></strong><br>To learn more or contribute
     to the Risk Data Library project, contact us at: <a href="mailto:sfraser@worldbank.org">sfraser@worldbank.org</a>
     and <a href="mailto:pchrzanowski@worldbank.org">pchrzanowski@worldbank.org</a><br><br>The
     content of this website, unless otherwise noted, is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">Creative
