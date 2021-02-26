@@ -20,6 +20,12 @@ page_sections:
   cta:
     url: ''
     button_text: Documentation
+- template: 1-column-text
+  block: one-column-1
+  headline: Terms of use
+  content: This website adheres to the <a href="https://www.gfdrr.org/en/terms-of-use"
+    title="">terms of use of GFDRR's websites</a>.
+  slug: ''
 - template: text-1
   block: text-1
   content: <p>This website adheres to the <a href="https://www.gfdrr.org/en/privacy-policy"
