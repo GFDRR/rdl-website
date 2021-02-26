@@ -88,12 +88,11 @@ page_sections:
     target="_blank">Learn more about the partners</a></p>
   main-headline: ''
   main-headline-description: ''
-- template: simple-footer
-  block: footer-1
-  content: '<strong>Project contact and license<br></strong><br>To learn more or contribute
-    to the Risk Data Library project, contact us at: <a href="mailto:sfraser@worldbank.org">sfraser@worldbank.org</a>
-    and <a href="mailto:pchrzanowski@worldbank.org">pchrzanowski@worldbank.org</a><br><br>The
-    content of this website, unless otherwise noted, is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">Creative
-    Commons Attribution-ShareAlike 4.0 International (CC-BY-SA 4.0)</a>'
+- template: 4-column-footer
+  block: footer-2
+  image: "/uploads/2021/02/26/gfdrr-logo.png"
+  col_2: ''
+  col_3: ''
+  col_4: ''
 
 ---
