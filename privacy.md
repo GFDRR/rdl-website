@@ -24,7 +24,7 @@ page_sections:
   block: text-1
   content: <p>This website adheres to the <a href="https://www.gfdrr.org/en/privacy-policy"
     title="">privacy policy of GFDRR's websites</a>.</p>
-  headline: ''
+  headline: Privacy Policy
   headline-description: ''
 - template: 4-column-footer
   block: footer-2
