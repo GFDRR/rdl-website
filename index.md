@@ -27,7 +27,7 @@ page_sections:
   content: Making disaster risk assessment more effective by making risk data easier
     to store, find, edit and share.
   cta:
-    enabled: true
+    enabled: false
     url: documentation
     button_text: Documentation
   image:
