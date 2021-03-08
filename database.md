@@ -3,30 +3,6 @@ layout: blocks
 title: Homepage
 date: 2017-11-22T23:00:00.000+00:00
 page_sections:
-- template: navigation-header-w-button
-  block: header-2
-  logo: ''
-  navigation:
-  - link_text: Schema
-    link: schema
-  - link_text: Database
-    link: database
-  - link_text: Data
-    link: http://jkan.riskdatalibrary.org/
-  - link_text: Resources
-    link: resources
-  - link_text: Project
-    link: project
-  cta:
-    url: https://doc.riskdatalibrary.org
-    button_text: Documentation
-- template: title
-  block: title
-  title: RDL Database
-  title-description: "<p>The library database has been designed to overcome a recurrent
-    issue with risk data: different datatypes then to be stored separately. Risk experts
-    must access multiple sources to gather the datasets they need, even when those
-    datasets have the same origin.</p>"
 - template: text-1
   block: text-1
   content: "<h4>Storing all data types in a single environment</h4><p>Database holds
@@ -60,15 +36,6 @@ page_sections:
   content: <p>Details on the schema contents and structure, giving guidance on completing
     metadata according to the schema.</p><p><a href="http://riskdatalibrary.org/documentation"
     target="_blank">Technical information</a></p>
-- template: 4-column-footer
-  block: footer-2
-  image: "/uploads/2021/02/26/gfdrr-logo.png"
-  col_2: "© 2021 Global Facility for Disaster Reduction and Recovery"
-  col_3: <a href="https://github.com/GFDRR/rdl-website">Code source</a> available under MIT License and content available under CC-BY-SA 4.0 license.
-  col_4: <a href="https://app.forestry.io/sites/bgn4z9mo95u7vg/privacy" title="Privacy
-    Policy">Privacy Policy</a><br><a href="https://app.forestry.io/sites/bgn4z9mo95u7vg/#/pages/index-md/"
-    title="Terms of use">Terms of use</a><br><a href="https://app.forestry.io/sites/bgn4z9mo95u7vg/Contact"
-    title="Contact">Contact</a> <br>
 
 ---
 

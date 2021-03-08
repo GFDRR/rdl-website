@@ -1,7 +1,9 @@
 @import "colors";
 
 html, body {
-	min-height: 100vh;
+	display: flex;
+    flex-flow: column;
+    min-height: 100vh;
 }
 
 .container {
@@ -80,6 +82,12 @@ h3 {
 .block-hero-2 {
   	background-color: $blue-secondary-color;
   	min-height: 0px;
+}
+
+//block-end
+
+.block-end {
+	  flex: 1 1 auto;
 }
 
 //footer
