@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Homepage
+title: Project
 date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: title
@@ -67,4 +67,3 @@ page_sections:
     Earth Observatory Singapore, Global Volcano Model, and the Global Flood Partnership.</p>
 
 ---
-
