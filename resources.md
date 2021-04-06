@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Homepage
+title: Resources
 date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: title
@@ -13,20 +13,20 @@ page_sections:
   headline: Documentation
   headline-description: 'Current technical document and published reports '
   content: <h4>Schema technical document</h4><p>Schema contents and structure, providing
-    guidance on completing metadata according to the schema.</p><p><a href="http://riskdatalibrary.org/documentation"
-    target="_blank">Documentation pages</a></p><h4>Solving the Puzzle - Innovating
-    to reduce risk</h4><p>Solving the Puzzle provides a community perspective on priorities
+    guidance on completing metadata according to the schema.</p><p><a href="http://docs.riskdatalibrary.org/"
+    title="">Documentation pages</a></p><h4>Solving the Puzzle - Innovating to reduce
+    risk</h4><p>Solving the Puzzle provides a community perspective on priorities
     for future collaboration and investment in the development and use of disaster
     risk information for developing countries. The focus is on high-impact activities
     that will promote the creation and use of risk-related data, catastrophe risk
     models, and platforms, and that will improve and facilitate the understanding
-    and communication of risk assessment results.</p><p><a href="http://riskdatalibrary.org/assets/docs/communityReports/solving-the-puzzle-report.pdf"
-    target="_blank">Solving the Puzzle full report</a></p><p><a href="https://www.gfdrr.org/en/solving-puzzle-innovating-reduce-risk"
-    target="_blank">GFDRR project page</a></p><h4>Extensible Data Schemas for Hazard,
-    Exposure and Vulnerability Data</h4><p>This paper, a background paper for the
-    UNISDR (now UNDRR) Global Assessment Report 2019, gives an overview of the first
-    phase of development under the Challenge Fund.</p><p><a href="http://riskdatalibrary.org/assets/docs/communityReports/Murnane_etal_2019_ExtensibleSchema_GAR19background.pdf"
-    target="_blank">Murnane et al., 2019, GAR 2019 background paper</a></p>
+    and communication of risk assessment results.</p><p><a href="http://riskdatalibrary.org/assets/docs/communityReports/solving-the-puzzle-report.pdf">Solving
+    the Puzzle full report</a></p><p><a href="https://www.gfdrr.org/en/solving-puzzle-innovating-reduce-risk">GFDRR
+    project page</a></p><h4>Extensible Data Schemas for Hazard, Exposure and Vulnerability
+    Data</h4><p>This paper, a background paper for the UNISDR (now UNDRR) Global Assessment
+    Report 2019, gives an overview of the first phase of development under the Challenge
+    Fund.</p><p><a href="http://riskdatalibrary.org/assets/docs/communityReports/Murnane_etal_2019_ExtensibleSchema_GAR19background.pdf">Murnane
+    et al., 2019, GAR 2019 background paper</a></p>
 - template: text-1
   block: text-1
   headline: Development reports
@@ -107,5 +107,5 @@ page_sections:
     of financial solutions.</p><h4>Can I upload data on the Risk Data Library?</h4><p>Uploading
     data on riskdatalibrary.org is limited to GFDRR administrators. The Risk Data
     Library is not intended for public upload of data.</p>'
----
 
+---
