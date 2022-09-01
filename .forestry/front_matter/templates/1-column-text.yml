@@ -11,3 +11,5 @@ fields:
   name: column
   label: Column
   template: text-column
+pages:
+- risk data library standard technical lead.md
