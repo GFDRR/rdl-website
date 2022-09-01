@@ -2,8 +2,7 @@
 layout: default
 
 ---
-
-![](https://lh4.googleusercontent.com/w0mHzfQ-dy-XDO6rvqiEyvdT50W6m-Jgoab2mB94v5sXQjhxTn-K1yIlntSvnyeZKbUYm8tv1DkGtgMuap1P0ySh8TPiokGqcCOb9xwsFJA2q_aw_puRIaAk6C18bi1PbidOl1n7x-OXdGG3V_riaik =412x41)
+![](/uploads/2022/09/01/gfdrr_wb_primary_logo.png)
 
 Short Term Consultant (STC)
 
@@ -55,8 +54,6 @@ The Consultant will lead the development of the Risk Data Library Standard and c
   * Propose and discuss changes;
   * Facilitate and participate in Steering Committe meetings and other technical meetings;
   * Engage with technical partners and contributors;
-
-
 * Support the adoption of the standard:
   * Provide technical support to World Bank Task teams and external clients in generating and publishing data in accordance with RDLS;
   * Contribute to the promotion of the standard through events such as webinars, conferences, as well as written publications such as blog posts or guidance notes;
@@ -79,12 +76,8 @@ Key qualifications required for this assignment include:
 
 * A Master or PhD in the field of geospatial technologies, computer science or other relevant fields;
 * Experience leading or contributing to the development of an open data standard;
-
-
 * Good knowledge and technical skills working with some of the various geospatial file and metadata formats (GeoJSON, Shapefile, GeoTIFF, GeoPackage, STAC, OGC), GIS software and processing services (QGIS, GRASS GIS, ArcGIS, GeoPandas, Google Earth Engine), as well as geoportal and web mapping services (PostGIS, PostgreSQL, Geoserver, Geonetwork, Geonode, Maptiler);
 * Good knowledge of software development platform such as GitHub or GitLab;
-
-
 * Proficiency in English.
 
 **Additional criteria**
