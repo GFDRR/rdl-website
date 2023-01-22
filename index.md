@@ -22,11 +22,11 @@ page_sections:
     block: title
     title: Making risk data easier to work with
     title-description: >-
-      Disaster risk assessments are more important and more effective than ever,
-      but common issues with risk data are beginning to limit their application.
-      The RDL was launched to address those issues by developing tools and
-      resources designed specifically for the needs of disaster risk experts and
-      the assessments they perform.
+      <p>Disaster risk assessments are more important and more effective than
+      ever, but common issues with risk data are beginning to limit their
+      application. The RDL was launched to address those issues by developing
+      tools and resources designed specifically for the needs of disaster risk
+      experts and the assessments they perform.</p>
     main-headline: ''
     main-headline-description: ''
   - template: title
