@@ -7,8 +7,7 @@ page_sections:
   block: hero-2
   slug: features
   headline: "<strong>The Risk Data Library</strong>"
-  content: Making disaster risk assessment more effective by making risk data easier
-    to store, find, edit and share.
+  content: A suite of open data, standards, and tools to make it easier to work on disaster and climate risk.
   cta:
     enabled: false
     url: documentation
