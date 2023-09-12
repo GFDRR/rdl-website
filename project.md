@@ -1,7 +1,7 @@
 ---
-layout: blocks
 title: Project
-date: 2017-11-22T23:00:00.000+00:00
+date: 2017-11-22 23:00:00 Z
+layout: blocks
 page_sections:
 - template: title
   block: title
@@ -65,5 +65,5 @@ page_sections:
     partners in the first phase of schema development also included HOTOSM, ImageCat,
     Norwegian Geotechnical Institute, NERC National Oceanographic Centre, CIMA Foundation,
     Earth Observatory Singapore, Global Volcano Model, and the Global Flood Partnership.</p>
-
 ---
+

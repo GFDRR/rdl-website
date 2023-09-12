@@ -1,8 +1,9 @@
 ---
-layout: default
 title: Risk Data Library Standard Technical Lead.md-(copy)
-
+date: 2023-09-12 19:48:13.558000000 Z
+layout: default
 ---
+
 ![](/uploads/2022/09/01/gfdrr_wb_primary_logo.png)
 
 Short Term Consultant (STC)

@@ -1,7 +1,7 @@
 ---
-layout: blocks
 title: Resources
-date: 2017-11-22T23:00:00.000+00:00
+date: 2017-11-22 23:00:00 Z
+layout: blocks
 page_sections:
 - template: title
   block: title
@@ -107,5 +107,5 @@ page_sections:
     of financial solutions.</p><h4>Can I upload data on the Risk Data Library?</h4><p>Uploading
     data on riskdatalibrary.org is limited to GFDRR administrators. The Risk Data
     Library is not intended for public upload of data.</p>'
-
 ---
+

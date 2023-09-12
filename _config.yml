@@ -1,15 +1,23 @@
 ---
 title: The Risk Data Library
-author: GFDRR
-email: pchrzanowski@worldbank.org
-description: ''
-baseurl: ''
-url: ''
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 defaults:
 - scope:
     path: ''
   values:
     layout: default
+author: GFDRR
+email: pchrzanowski@worldbank.org
+description: ''
+baseurl: ''
+url: ''
 plugins:
 - jekyll-feed
 - jekyll-menus

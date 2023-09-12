@@ -1,13 +1,14 @@
 ---
-layout: blocks
 title: Homepage
-date: 2017-11-22T23:00:00.000+00:00
+date: 2017-11-22 23:00:00 Z
+layout: blocks
 page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
   headline: "<strong>The Risk Data Library</strong>"
-  content: A suite of open data, standards, and tools to make it easier to work on disaster and climate risk.
+  content: A suite of open data, standards, and tools to make it easier to work on
+    disaster and climate risk.
   cta:
     enabled: false
     url: documentation
@@ -70,5 +71,5 @@ page_sections:
     target="_blank">Learn more about the partners</a></p>
   main-headline: ''
   main-headline-description: ''
-
 ---
+
