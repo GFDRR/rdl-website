@@ -1,6 +1,6 @@
 ---
 title: Risk Data Library Standard Technical Lead.md-(copy)
-date: 2023-09-12 19:48:13.558000000 Z
+date: 2023-09-12 19:48:13 Z
 layout: default
 ---
 
