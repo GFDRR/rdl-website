@@ -2,57 +2,73 @@
   {
     "title": "Open Data Services",
     "image": "/assets/images/partners/ods_black_logo.svg",
-    "url": "https://"
+    "url": "https://opendataservices.coop/",
+    "partner_type": "Development partner and steering group member"
   },
   {
-    "title": "Royal Haskoning DHV",
+    "title": "Gates Foundation",
+    "image": "/assets/images/partners/128px-Gates_Foundation_Logo.svg.png",
+    "url": "https://www.gatesfoundation.org/",
+    "partner_type": "Funder"
+  },{
+    "title": "Swiss Re Foundation",
+    "image": "https://1000logos.net/wp-content/uploads/2020/09/Swiss-Re-Logo.png",
+    "url": "https://www.swissre.com/",
+    "partner_type": "Previous funder and steering group member"
+  },
+  {
+    "title": "Haskoning",
     "image": "/assets/images/partners/Haskoning_Logo_Colour_RGB_Padding.png",
-    "url": "https://"
+    "url": "https://www.haskoning.com/",
+    "partner_type": "Steering group member"
   },
   {
-    "title": "European Commission Joint Research Centre",
+    "title": "European Commission Joint Research Centre (DRM Knowledge Centre)",
     "image": "/assets/images/partners/LOGO_EC-JRC_EN_RGB_HORIZONTAL_POS.png",
-    "url": "https://"
+    "url": "https://drmkc.jrc.ec.europa.eu/",
+    "partner_type": "Steering group member"
   },
   {
     "title": "JBA Risk Management",
     "image": "/assets/images/partners/JBA-Logo-2023-RGB-Orange.png",
-    "url": "https://www.jbarisk.com/"
+    "url": "https://www.jbarisk.com/",
+    "partner_type": "Steering group member"
   },
   {
     "title": "OPSIS",
     "image": "/assets/images/partners/opsis+eci+Oxford-rgb.png",
-    "url": "https://"
+    "url": "https://www.eci.ox.ac.uk/",
+    "partner_type": "Steering group member"
   },
   {
     "title": "Global Earthquake Model Foundation",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Global_Earthquake_Model_Logo.png/640px-Global_Earthquake_Model_Logo.png",
-    "url": "https://www.globalquakemodel.org/gem"
+    "url": "https://www.globalquakemodel.org/",
+    "partner_type": "Previous development partner and steering group member"
   },
   {
     "title": "UCL Epicenter",
     "image": "https://pbs.twimg.com/profile_images/1086715580999192577/AUgAOZ5d_400x400.jpg",
-    "url": "https://www.ucl.ac.uk/epicentre/"
+    "url": "https://www.ucl.ac.uk/epicentre/",
+    "partner_type": "Previous development partner and steering group member"
   },
   {
     "title": "OASIS Open Data Standards",
     "image": "https://raw.githubusercontent.com/OasisLMF/ODS_OpenExposureData/develop/images/Oasis_LOGO.png",
-    "url": "https://oasislmf.org/open-data-standards"
+    "url": "https://oasislmf.org/open-data-standards",
+    "partner_type": "Previous steering group member"
   },
   {
     "title": "Insurance Development Forum",
     "image": "https://mma.prnewswire.com/media/739188/Insurance_Development_Forum_Logo.jpg",
-    "url": "https://www.insdevforum.org/"
-  },
-  {
-    "title": "Swiss Re Foundation",
-    "image": "https://1000logos.net/wp-content/uploads/2020/09/Swiss-Re-Logo.png",
-    "url": "https://www.swissre.com/"
+    "url": "https://www.insdevforum.org/",
+    "partner_type": "Previous steering group member"
   },
   {
     "title": "IFRC",
     "image": "/assets/images/logo/ifrc.png",
-    "url": "https://www.ifrc.org/"
+    "url": "https://www.ifrc.org/",
+    "partner_type": "Previous steering group member"
   },
 ]
 
