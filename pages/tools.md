@@ -21,7 +21,6 @@ hero:
   sub_heading: Open source software and code to work with risk data
   background_image_blend_mode: multiply
   fullscreen_mobile: true
-  height: 500px
   background_image: ""
   text_color: "#FFFFFF"
   background_color: "#0b3860"
@@ -119,7 +118,7 @@ A collection of analytical tools to support climate and disaster risk screening.
 </div>
 
 </div>
-
+<br>
 ---
 
 ## Getting Started
