@@ -120,7 +120,7 @@ A collection of analytical tools to support climate and disaster risk screening.
 
 </div>
 
-<br><hr><br>
+<br><br>
 
 ## Getting Started
 
