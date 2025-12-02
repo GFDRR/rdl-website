@@ -119,8 +119,8 @@ A collection of analytical tools to support climate and disaster risk screening.
 </div>
 
 </div>
-<br>
----
+
+<br><hr><br>
 
 ## Getting Started
 
