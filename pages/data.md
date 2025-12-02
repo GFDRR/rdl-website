@@ -44,3 +44,9 @@ The catalog, curated by the team at the Risk Data Library, is based on the open-
 The [Risk Data Library collection](https://datacatalog.worldbank.org/search/collections/rdl) from the World Bank data catalog contains data used for or produced by disaster and climate risk assessments and curated by the Global Facility for Disaster Reduction and Recovery (GFDRR).
 
 ![Development Data Hub](/assets/images/uploads/screenshot-from-2023-09-23-14-33-07.png "Development Data Hub")
+
+# 2. EU JRC Disaster Risk Management Knowledge Centre
+
+The [Risk Data Hub Atlas](https://drmkc.jrc.ec.europa.eu/risk-data-hub#/atlas/) from the European Commission Joint Research Centre is the first application of RDLS in a regional risk data catalogue or platform.
+
+![EU JRC Risk Data Hub Metadata](/assets/images/uploads/RDLS-DRMKC.png "EU JRC Risk Data Hub Metadata")
