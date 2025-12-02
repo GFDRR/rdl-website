@@ -3,7 +3,7 @@ header_transparent: true
 layout: basic
 permalink: /tools/
 title: Tools
-date: 2018-11-28T15:15:34+10:00
+date: 2025-06-09T13:15:34+10:00
 hero:
   background_gradient: false
   enabled: true
@@ -28,18 +28,95 @@ hero:
   fullscreen_desktop: false
 description: data
 ---
-# Climate & Disaster Risk Screening Tools
+# Country Climate & Disaster Risk Screening Tools
 
-A collection of scripted tools developed to inform risk analytics for the the World Bank’s Country Climate and Development Report risk screening activities (2022/2023).
+A collection of analytical tools to support climate and disaster risk screening. Developed since 2022 to support the World Bank's Country Climate and Development Reports (CCDRs), these open-source tools help teams integrate risk analytics by enabling spatial analysis, visualization, and communication of risk findings.
 
-The tools collected in this repository allow to:
+## What you can do with these tools
 
-- Perform spatial analytics of disaster risk for the present period (baseline) based on global datasets
+<style>
+.tools-grid {
+  margin: 2rem 0;
+}
+.tool-item {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 2.5rem;
+  gap: 1.5rem;
+}
+.tool-image {
+  width: 250px;
+  height: 250px;
+  flex-shrink: 0;
+  border-radius: 8px;
+  object-fit: cover;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+.tool-content {
+  flex: 1;
+  padding-top: 0.5rem;
+}
+.tool-content h3 {
+  margin: 0 0 0.5rem 0;
+  font-size: 1.2rem;
+}
+.tool-content p {
+  margin: 0;
+  line-height: 1.6;
+}
+@media (max-width: 768px) {
+  .tool-item {
+    flex-direction: column;
+    text-align: center;
+  }
+  .tool-image {
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+  }
+}
+</style>
 
-- Combine risk and poverty information into bi-variate maps
+<div class="tools-grid">
 
-- Produce climate risk outlook based on CMIP6 indices
+<div class="tool-item">
+<img src="https://gfdrr.github.io/CCDR-tools/_images/rdl-disaster-risk-logo.png" alt="Disaster Risk Analysis" class="tool-image" />
+<div class="tool-content">
+<h3><strong>Analyze disaster risk</strong></h3>
+<p>Perform <strong>spatial analytics of disaster risk</strong> using globally available datasets.</p>
+</div>
+</div>
 
-- Present results into an interactive dashboard
+<div class="tool-item">
+<img src="https://gfdrr.github.io/CCDR-tools/_images/rdl-risk-poverty-logo.png" alt="Risk and Poverty Mapping" class="tool-image" />
+<div class="tool-content">
+<h3><strong>Map the interaction of risk and poverty</strong></h3>
+<p>Combine hazard exposure and socio-economic vulnerability to produce <strong>bi-variate maps</strong> highlighting risk-poverty hotspots.</p>
+</div>
+</div>
 
-![](/assets/images/uploads/screenshot-from-2023-10-01-16-08-30.png)
+<div class="tool-item">
+<img src="https://gfdrr.github.io/CCDR-tools/_images/rdl-climate-risk-logo.png" alt="Future Climate Risk" class="tool-image" />
+<div class="tool-content">
+<h3><strong>Explore future climate risk</strong></h3>
+<p>Generate climate risk outlooks based on <strong>CMIP6 climate projections</strong> and standardized risk indices.</p>
+</div>
+</div>
+
+<div class="tool-item">
+<img src="https://gfdrr.github.io/CCDR-tools/_images/rdl-dashboard-logo.png" alt="Interactive Dashboards" class="tool-image" />
+<div class="tool-content">
+<h3><strong>Build interactive dashboards</strong></h3>
+<p>Present results in an <strong>interactive dashboard</strong> format to support communication, exploration, and stakeholder engagement.</p>
+</div>
+</div>
+
+</div>
+
+![](https://gfdrr.github.io/CCDR-tools/_images/GUI_F3_vln.png)
+
+---
+
+## Getting Started
+
+You can find detailed documentation and source code in the [RDL-tools repository](https://gfdrr.github.io/CCDR-tools)
