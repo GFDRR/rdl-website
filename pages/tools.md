@@ -79,7 +79,9 @@ A collection of analytical tools to support climate and disaster risk screening.
 <div class="tools-grid">
 
 <div class="tool-item">
-<img src="https://gfdrr.github.io/CCDR-tools/_images/rdl-disaster-risk-logo.png" alt="Disaster Risk Analysis" class="tool-image" />
+<a href="https://gfdrr.github.io/CCDR-tools/docs/intro-risk.html" class="tool-image">
+  <img src="https://gfdrr.github.io/CCDR-tools/_images/rdl-disaster-risk-logo.png" alt="Disaster Risk Analysis" class="tool-image" /
+</a>
 <div class="tool-content">
 <h3><strong>Analyze disaster risk</strong></h3>
 <p>Perform <strong>spatial analytics of disaster risk</strong> using globally available datasets.</p>
@@ -87,7 +89,9 @@ A collection of analytical tools to support climate and disaster risk screening.
 </div>
 
 <div class="tool-item">
-<img src="https://gfdrr.github.io/CCDR-tools/_images/rdl-risk-poverty-logo.png" alt="Risk and Poverty Mapping" class="tool-image" />
+<a href="https://gfdrr.github.io/CCDR-tools/docs/risk-poverty.html" class="tool-image">
+  <img src="https://gfdrr.github.io/CCDR-tools/_images/rdl-risk-poverty-logo.png" alt="Risk and Poverty Mapping" class="tool-image" />
+</a>
 <div class="tool-content">
 <h3><strong>Map the interaction of risk and poverty</strong></h3>
 <p>Combine hazard exposure and socio-economic vulnerability to produce <strong>bi-variate maps</strong> highlighting risk-poverty hotspots.</p>
@@ -95,7 +99,9 @@ A collection of analytical tools to support climate and disaster risk screening.
 </div>
 
 <div class="tool-item">
-<img src="https://gfdrr.github.io/CCDR-tools/_images/rdl-climate-risk-logo.png" alt="Future Climate Risk" class="tool-image" />
+<a href="https://gfdrr.github.io/CCDR-tools/docs/climate-risk.html" class="tool-image">
+  <img src="https://gfdrr.github.io/CCDR-tools/_images/rdl-climate-risk-logo.png" alt="Future Climate Risk" class="tool-image" />
+</a>
 <div class="tool-content">
 <h3><strong>Explore future climate risk</strong></h3>
 <p>Generate climate risk outlooks based on <strong>CMIP6 climate projections</strong> and standardized risk indices.</p>
@@ -103,7 +109,9 @@ A collection of analytical tools to support climate and disaster risk screening.
 </div>
 
 <div class="tool-item">
-<img src="https://gfdrr.github.io/CCDR-tools/_images/rdl-dashboard-logo.png" alt="Interactive Dashboards" class="tool-image" />
+<a href="https://gfdrr.github.io/CCDR-tools/docs/presentation.html#dashboard" class="tool-image">
+  <img src="https://gfdrr.github.io/CCDR-tools/_images/rdl-dashboard-logo.png" alt="Interactive Dashboards" class="tool-image" />
+</a>
 <div class="tool-content">
 <h3><strong>Build interactive dashboards</strong></h3>
 <p>Present results in an <strong>interactive dashboard</strong> format to support communication, exploration, and stakeholder engagement.</p>
@@ -112,10 +120,10 @@ A collection of analytical tools to support climate and disaster risk screening.
 
 </div>
 
-![](https://gfdrr.github.io/CCDR-tools/_images/GUI_F3_vln.png)
-
 ---
 
 ## Getting Started
 
 You can find detailed documentation and source code in the [RDL-tools repository](https://gfdrr.github.io/CCDR-tools)
+
+![](https://gfdrr.github.io/CCDR-tools/_images/GUI_F3_vln.png)
