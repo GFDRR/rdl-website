@@ -55,10 +55,10 @@ In the end, the real benefit of the RDLS will reside in the number of people who
 
 The development of the RDLS is coordinated and maintained by the [Digital Earth team](https://www.gfdrr.org/en/digitalearthpartnership) at GFDRR.
 
-An initial version was developed as a database schema with principal contributions from the [Global Earthquake Model (GEM) Foundation](https://www.globalquakemodel.org/), [UCL Epicentre](https://www.ucl.ac.uk/epicentre/), and the [British Geological Survey (BGS)](https://www.bgs.ac.uk/).  
+An initial version was developed as a database schema with principal contributions from the [Global Earthquake Model (GEM) Foundation](https://www.globalquakemodel.org/), [UCL Epicentre](https://www.ucl.ac.uk/epicentre/), and the [British Geological Survey (BGS)](https://www.bgs.ac.uk/), funded by the UK Government Department for International Developement, in 2016-2017.  
 
-Since 2022, a grant from the [Swiss Re Foundation ](https://www.swissrefoundation.org/)has been supporting the development and promotion of the schema as an open data standard. The [Open Data Services cooperative](https://opendataservices.coop/) is providing technical support.
+In 2022-2023, a grant from the [Swiss Re Foundation](https://www.swissrefoundation.org/) supported the development and promotion of the schema as an open data standard. The [Open Data Services cooperative](https://opendataservices.coop/) provided technical support to develop the standard according to open standard best practice. In 2025-2026, a grant from the [Gates Foundation](https://www.gatesfoundation.org/) supported the further development and promotion of the standard with specific focus on improving capabilities to support urban scale risk assessments and information. 
 
-The RDLS is currently overseen by the [RDLS Steering Committee ](https://github.com/GFDRR/rdl-standard/tree/0.2-dev/SteeringCommittee)composed of disaster risk experts from the disaster risk community. The development of the standard follows open principles and community contributions are welcome and encouraged. 
+The RDLS is currently overseen by the [RDLS Steering Committee](https://github.com/GFDRR/rdl-standard/tree/0.3-dev/SteeringCommittee) composed of RDLS users and disaster risk experts from the disaster risk community. The development of the standard follows open principles and community contributions are welcome and encouraged. 
 
 For more information on how to contribute and adopt the Risk Data Library Standard, please see the [RDLS Documentation](https://docs.riskdatalibrary.org/) site.
