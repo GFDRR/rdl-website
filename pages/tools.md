@@ -40,8 +40,8 @@ A collection of analytical tools to support climate and disaster risk screening.
 }
 .tool-item {
   display: flex;
-  align-items: flex-start;
-  margin-bottom: 2.5rem;
+  align-items: center;
+  margin-bottom: 1.5rem;
   gap: 1.5rem;
 }
 .tool-image {
@@ -54,7 +54,6 @@ A collection of analytical tools to support climate and disaster risk screening.
 }
 .tool-content {
   flex: 1;
-  padding-top: 0.5rem;
 }
 .tool-content h3 {
   margin: 0 0 0.5rem 0;
