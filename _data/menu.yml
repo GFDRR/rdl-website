@@ -9,11 +9,11 @@ main:
       - name: Documentation
         url: https://docs.riskdatalibrary.org/en/latest/
         weight: 1
-      - name: Repository
-        url: https://github.com/GFDRR/rdl-standard
+      - name: Create RDLS metadata 
+        url: /create/
         weight: 2
-      - name: Conversion & validation tool
-        url: https://metadata.riskdatalibrary.org/
+      - name: Contribute to development
+        url: /contribute/
         weight: 3
       - name: Steering Committee
         url: https://github.com/GFDRR/rdl-standard/tree/0.2-dev/SteeringCommittee
