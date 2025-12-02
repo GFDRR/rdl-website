@@ -80,7 +80,7 @@ A collection of analytical tools to support climate and disaster risk screening.
 
 <div class="tool-item">
 <a href="https://gfdrr.github.io/CCDR-tools/docs/intro-risk.html" class="tool-image">
-  <img src="https://gfdrr.github.io/CCDR-tools/_images/rdl-disaster-risk-logo.png" alt="Disaster Risk Analysis" class="tool-image" /
+  <img src="https://gfdrr.github.io/CCDR-tools/_images/rdl-disaster-risk-logo.png" alt="Disaster Risk Analysis" class="tool-image" />
 </a>
 <div class="tool-content">
 <h3><strong>Analyze disaster risk</strong></h3>
