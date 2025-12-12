@@ -31,7 +31,7 @@ description: data
 ---
 # 1. Risk Data Library catalog (beta)
 
-The [Risk Data Library catalog (beta)](https://jkan.riskdatalibrary.org/datasets/) is an implementation of the Risk Data Library Standard (RDLS) into a simple open data catalog. 
+The [Risk Data Library catalog (beta)](https://jkan.riskdatalibrary.org/) is an implementation of the Risk Data Library Standard (RDLS) into a simple open data catalog. 
 
 It aims to showcase the value of the RDLS by allowing to search for, compare, and download risk datasets from various risk data sources.
 
