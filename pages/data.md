@@ -41,7 +41,7 @@ The catalog, curated by the team at the Risk Data Library, is based on the open-
 
 # 2. Development Data Hub
 
-The [Risk Data Library collection](https://datacatalog.worldbank.org/search/collections/rdl) from the World Bank data catalog contains data used for or produced by disaster and climate risk assessments and curated by the Global Facility for Disaster Reduction and Recovery (GFDRR).
+The [Risk Data Library collection](https://datacatalog.worldbank.org/search/collections/RDL) from the World Bank data catalog contains data used for or produced by disaster and climate risk assessments and curated by the Global Facility for Disaster Reduction and Recovery (GFDRR).
 
 ![Development Data Hub](/assets/images/uploads/screenshot-from-2023-09-23-14-33-07.png "Development Data Hub")
 
