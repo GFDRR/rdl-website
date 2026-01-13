@@ -172,7 +172,7 @@ footer:
   enable_menu_footer_tertiary: true
   footer_primary_menu_title: "Open"
   footer_secondary_menu_title: "Project"
-  footer_tertiary_menu_title: "Others"
+  footer_tertiary_menu_title: "Legal"
 
 bottom:
   enable_bottom: true # show/hide the entire bottom (below the footer)
