@@ -3,8 +3,8 @@ title: "Mattia Amadio"
 date: 2018-12-20T13:44:30+10:00
 weight: 3
 description: "Disaster Risk Consultant at GFDRR"
-thumbnail: "https://blogs.worldbank.org/sites/default/files/styles/blogger_profile_image/public/2023-05/Mattia%20Amadio.jpg.webp"
-image: "https://blogs.worldbank.org/sites/default/files/styles/blogger_profile_image/public/2023-05/Mattia%20Amadio.jpg.webp"
+thumbnail: "https://matamadio.github.io/img/pic.png"
+image: "https://matamadio.github.io/img/pic.png"
 jobtitle: "Risk data expert"
 
 
