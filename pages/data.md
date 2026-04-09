@@ -37,7 +37,7 @@ It aims to showcase the value of the RDLS by allowing to search for, compare, an
 
 The catalog, curated by the team at the Risk Data Library, is based on the open-source software JKAN.
 
-![Screenshot of the Risk Data Library catalog](/assets/images/uploads/catalog.jpg "Risk Data Library catalog")
+![Screenshot of the Risk Data Library catalog](assets/images/uploads/catalog.jpg "Risk Data Library catalog")
 
 # 2. Development Data Hub
 
