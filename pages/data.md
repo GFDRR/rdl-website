@@ -3,7 +3,7 @@ header_transparent: true
 layout: basic
 permalink: /data/
 title: Data
-date: 2018-11-28T15:15:34+10:00
+date: 2026-04-29T15:32:00.000+02:00
 hero:
   background_gradient: false
   enabled: true
