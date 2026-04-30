@@ -29,7 +29,7 @@ hero:
   fullscreen_desktop: false
 description: data
 ---
-# 1. Risk Data Library catalog (beta)
+# 1. Risk Data Library catalog
 
 The [Risk Data Library Catalog ](https://catalog.riskdatalibrary.org/)is an implementation of the Risk Data Library Standard (RDLS) into a simple open data catalog. 
 
