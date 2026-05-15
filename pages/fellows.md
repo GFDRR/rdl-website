@@ -48,7 +48,7 @@ The fellowship program is managed by the Digital Earth team at GFDRR and support
 
 For its first edition, the Fellows were recruited from the following countries: Bangladesh, Democratic Republic of the Congo, India, Indonesia, Philippines, and South Africa.
 
-See video summary https://www.youtube.com/watch?v=0yHDSia2ogM
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0yHDSia2ogM?si=psK5_ebSUFBBIaJn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## The 2025 Risk Data Fellows
 
