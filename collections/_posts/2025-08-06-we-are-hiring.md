@@ -1,11 +1,13 @@
 ---
-layout: blog
+layout: post
 title: We are hiring!
 date: 2026-05-15T15:32:00.000+02:00
 thumbnail: /assets/images/uploads/jkan.png
 image: /assets/images/uploads/jkan.png
 description: Hiring of Risk Data Library Developer and Risk Data Library Steward
 ---
+
+
 🚨 We’re hiring!
 
 As part of the Risk Data Library project - our effort to make disaster risk information more easily available and usable to all - we’re looking for two individual consultants to join our team:
