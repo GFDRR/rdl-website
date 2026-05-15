@@ -1,8 +1,8 @@
 ---
+layout: basic
 title: Risk Data Fellows
 date: 2023-10-01T20:18:08.727Z
 header_transparent: true
-layout: basic
 permalink: /fellows/
 hero:
   background_gradient: false
@@ -18,7 +18,9 @@ hero:
         outline: true
         style: light
   heading: Risk Data Fellows
-  sub_heading: Fellows from vulnerable countries are recruited to support World Bank disaster and climate risk data projects and learn how to use the Risk Data Library
+  sub_heading: Fellows from vulnerable countries are recruited to support World
+    Bank disaster and climate risk data projects and learn how to use the Risk
+    Data Library
   background_image_blend_mode: multiply
   fullscreen_mobile: true
   height: 500px
@@ -29,6 +31,8 @@ hero:
 description: data
 ---
 # **Disaster and Climate Risk Data Fellows**
+
+![Risk Data Fellows 2025 and Digital Earth team](/assets/images/uploads/picturehq.jpg)
 
 The fellowship program offers a 6-month placement for climate and disaster risk professionals (data scientists, geospatial analysts, and similar) from selected climate-vulnerable countries to work with the Risk Data Library Standard to access, create and communicate climate risk knowledge with their communities.
 
@@ -43,3 +47,9 @@ The fellowship program is managed by the Digital Earth team at GFDRR and support
 ## The 2023 Risk Data Fellows
 
 For its first edition, the Fellows were recruited from the following countries: Bangladesh, Democratic Republic of the Congo, India, Indonesia, Philippines, and South Africa.
+
+See video summary https://www.youtube.com/watch?v=0yHDSia2ogM
+
+## The 2025 Risk Data Fellows
+
+For its second edition, the Fellows were recruited from the following countries: Burkina Faso, Cameroon, Democratic Republic of Congo, Nigeria, South Sudan, Ethiopia, Somalia, Burundi, Comoros.
