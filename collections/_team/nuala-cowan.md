@@ -3,8 +3,8 @@ title: "Nuala Cowan"
 date: 2018-12-20T13:44:30+10:00
 weight: 5
 description: "Disaster Risk Consultant at GFDRR"
-thumbnail: "https://blogs.worldbank.org/sites/default/files/styles/blogger_profile_image/public/bloggers/pictures/picture-13477-1543508188.png.webp"
-image: "https://blogs.worldbank.org/sites/default/files/styles/blogger_profile_image/public/bloggers/pictures/picture-13477-1543508188.png.webp"
+thumbnail: "https://media.licdn.com/dms/image/v2/C4D03AQGpZxCZgfYEcg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1546625030379?e=1780531200&v=beta&t=8zJc5IhjHUrcayucbI0hsXNFIRz8Dz0C9P1O7oVOG7Q"
+image: "https://media.licdn.com/dms/image/v2/C4D03AQGpZxCZgfYEcg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1546625030379?e=1780531200&v=beta&t=8zJc5IhjHUrcayucbI0hsXNFIRz8Dz0C9P1O7oVOG7Q"
 jobtitle: "Fellowship Program Coordinator"
 
 ---
