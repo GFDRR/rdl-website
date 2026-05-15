@@ -3,7 +3,7 @@ header_transparent: true
 layout: basic
 permalink: /create/
 title: Create Metadata
-date: 2024-01-21T17:39:33.706Z
+date: 2026-05-15T15:19:00.000+02:00
 hero:
   background_gradient: false
   enabled: true
@@ -28,22 +28,6 @@ hero:
   fullscreen_desktop: false
 description: data
 ---
-
-## Risk Data Library Standard Conversion and Validation Tool
-
-The Conversion and Validation Tool provides an intuitive web-based workflow to create metadata files according the to RDLS.
-
-The tool enables the completion of metadata in Excel workbook format and provides validation of the information before writing the metadata JSON file.
-
-[Create RDLS metadata using the Conversion and Validation Tool](https://metadata.riskdatalibrary.org/)
-
-<img width="1219" height="865" alt="image" src="https://github.com/user-attachments/assets/f4939b9a-2731-4df6-b1a0-dd5eba29c4c2" />
-
-
-For more information and to provide feedback, see [RDLS Conversion and Validation Github repository](https://github.com/GFDRR/rdls-spreadsheet-template/blob/main/README.md).
-
-
-
 ## Risk Data Library Standard Metadata Editor
 
 The Metadata Editor provides an intuitive web-based workflow to create metadata files according the to RDLS.
