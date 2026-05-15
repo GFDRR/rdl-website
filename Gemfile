@@ -5,5 +5,5 @@ gem 'jekyll-paginate'
 gem "webrick", "~> 1.7"
 gem "jekyll", "~> 4.2"
 gem "sassc", "~> 2.1.0"
-gem "ruby", "~> 3.2.2"
+ruby '3.2.2'
 
