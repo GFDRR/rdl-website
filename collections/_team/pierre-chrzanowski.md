@@ -3,8 +3,8 @@ title: "Pierre Chrzanowski"
 date: 2018-12-20T13:44:30+10:00
 weight: 1
 description: "Disaster Risk Management Specialist at GFDRR"
-thumbnail: "https://blogs.worldbank.org/sites/default/files/styles/blogger_profile_image/public/2023-05/Pierre.jpg.webp"
-image: "https://blogs.worldbank.org/sites/default/files/styles/blogger_profile_image/public/2023-05/Pierre.jpg.webp"
+thumbnail: "https://s7d1.scene7.com/is/image/wbcollab/Pierre?qlt=90&fmt=webp&resMode=sharp2"
+image: "https://s7d1.scene7.com/is/image/wbcollab/Pierre?qlt=90&fmt=webp&resMode=sharp2"
 jobtitle: "Project Lead"
 
 ---
