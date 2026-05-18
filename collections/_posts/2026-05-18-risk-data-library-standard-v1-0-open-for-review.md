@@ -2,8 +2,8 @@
 layout: post
 title: Risk Data Library Standard v1.0 open for review
 date: 2026-05-18T09:17:00.000+02:00
-thumbnail: /assets/images/uploads/catalog.jpg
-image: /assets/images/uploads/catalog.jpg
+thumbnail: /assets/images/uploads/screenshot-2026-05-18-095248.png
+image: /assets/images/uploads/screenshot-2026-05-18-095248.png
 description: Risk Data Library Standard v1.0 open for review
 ---
 The [draft of the Risk Data Library Standard version 1.0](https://docs.riskdatalibrary.org/en/1.0-dev/) is ready for review.
