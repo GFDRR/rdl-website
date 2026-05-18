@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: GFDRR/rdl-website-new # Path to your GitHub repository
+  repo: GFDRR/rdl-website # Path to your GitHub repository
   api_root: https://api.github.com
   branch: main
 
