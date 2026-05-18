@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: Risk Data Library Standard v1.0 open for review
 date: 2026-05-18T09:17:00.000+02:00
 thumbnail: /assets/images/uploads/catalog.jpg
