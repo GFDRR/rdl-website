@@ -6,7 +6,7 @@ thumbnail: /assets/images/uploads/screenshot-2026-05-18-095248.png
 image: /assets/images/uploads/screenshot-2026-05-18-095248.png
 description: Risk Data Library Standard v1.0 open for review
 ---
-The [draft of the Risk Data Library Standard version 1.0](https://docs.riskdatalibrary.org/en/1.0-dev/) is ready for review.
+The [draft of the Risk Data Library Standard version 1.0](https://github.com/GFDRR/rdl-standard/tree/1.0-dev) is ready for review.
 
 **Status:** Draft for Community Review
 **Review Period:** 13/05/2026 - 30/05/2026
@@ -14,11 +14,11 @@ The [draft of the Risk Data Library Standard version 1.0](https://docs.riskdata
 
 Material for review:
 
-* Risk Data Library Catalog: catalog.riskdatalibrary.org
-* Risk Data Library Standard documentation: [docs.riskdatalibrary.org/en/1.0-dev](docs.riskdatalibrary.org/en/1.0-dev)
-* Risk Data Library Standard v1.0 Schema: [docs.riskdatalibrary.org/en/1\_\_0\_\_0/rdls_schema.json](docs.riskdatalibrary.org/en/1__0__0/rdls_schema.json)
-* Changelog: [docs.riskdatalibrary.org/en/1.0-dev/about/changelog](docs.riskdatalibrary.org/en/1.0-dev/about/changelog)
-* Review Discussion: [github.com/GFDRR/rdl-standard/discussions/462](github.com/GFDRR/rdl-standard/discussions/462) **(this is our preferred route to receive review comments)**
+* Risk Data Library Catalog: [catalog.riskdatalibrary.org](https://catalog.riskdatalibrary.org)
+* Risk Data Library Standard documentation: [docs.riskdatalibrary.org](https://docs.riskdatalibrary.org)
+* Risk Data Library Standard v1.0 Schema browser: [docs.riskdatalibrary.org/en/latest/reference/browser/](https://docs.riskdatalibrary.org/en/latest/reference/browser/)
+* Changelog: [docs.riskdatalibrary.org/en/latest/about/changelog/](https://docs.riskdatalibrary.org/en/latest/about/changelog/)
+* Review Discussion: [github.com/GFDRR/rdl-standard/discussions/462](https://github.com/GFDRR/rdl-standard/discussions/462) **(this is our preferred route to receive review comments)**
 
 Background:
 
