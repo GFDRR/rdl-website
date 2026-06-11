@@ -34,6 +34,6 @@ The Metadata Editor provides an intuitive web-based workflow to create, validate
 
 [Create RDLS metadata using the editor](https://docs.riskdatalibrary.org/en/latest/_static/RDL_MDE.html)
 
-![](assets/images/uploads/immagine-2026-06-11-112200.png)
+![MDE](assets/images/uploads/immagine-2026-06-11-112200.png "RDL MDE")
 
 The Metadata Editor is under development. Feedback can be provided at the [RDLS Standard Github repository](https://github.com/GFDRR/rdl-standard/issues).
