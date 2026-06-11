@@ -30,10 +30,10 @@ description: data
 ---
 ## Risk Data Library Standard Metadata Editor
 
-The Metadata Editor provides an intuitive web-based workflow to create metadata files according the to RDLS.
+The Metadata Editor provides an intuitive web-based workflow to create, validate and publish metadata files according the to RDLS.
 
-[Create RDLS metadata using the editor](https://gfdrr.github.io/CCDR-tools/_static/RDL_MDE.html)
+[Create RDLS metadata using the editor](https://docs.riskdatalibrary.org/en/latest/_static/RDL_MDE.html)
 
-<img width="1904" height="800" alt="image" src="https://github.com/user-attachments/assets/56b07d2e-8a9c-4e31-b1c9-7fc509c92636" />
+![](/assets/images/uploads/immagine-2026-06-11-112200.png)
 
 The Metadata Editor is under development. Feedback can be provided at the [RDLS Standard Github repository](https://github.com/GFDRR/rdl-standard/issues).
