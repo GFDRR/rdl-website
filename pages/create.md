@@ -36,4 +36,4 @@ The Metadata Editor provides an intuitive web-based workflow to create, validate
 
 ![MDE](assets/images/uploads/immagine-2026-06-11-112200.png "RDL MDE")
 
-The Metadata Editor is under development. Feedback can be provided at the [RDLS Standard Github repository](https://github.com/GFDRR/rdl-standard/issues).
+Feedback can be provided at the [RDLS Standard Github repository](https://github.com/GFDRR/rdl-standard/issues).
